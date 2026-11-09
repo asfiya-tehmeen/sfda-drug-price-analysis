@@ -1,0 +1,21 @@
+molecule,trade_name,dosage_form,strength_raw,price,cell_n,price_vs_cell_median,robust_z,is_unbranded
+fluconazole,Funzol,Capsule,150,2528.4,10,135.88639515578728,29.02640538160236,False
+moxifloxacin hydrochloride,Avores,Film-coated tablet,400,2233.45,21,38.11348122866893,24.555631548306625,False
+lisinopril,Omace,Tablet,5,474.0,5,30.000000000000014,22.941076339311238,False
+lisinopril,Omace,Tablet,10,779.75,5,29.990384615384606,22.938914133811068,False
+montelukast sodium,Broncast,Film-coated tablet,10,1285.2,18,17.98740377886635,19.490835770730005,False
+atorvastatin calcium,ATORVA 40MG F.C. TABLETS,Film-coated tablet,40,1448.0,11,16.662830840046027,18.974902746848255,False
+atorvastatin calcium,ATORVA 20MG F.C. TABLETS,Film-coated tablet,20,724.0,11,16.66283084004602,18.97490274684825,False
+atorvastatin calcium,ATORVA 10MG F.C. TABLETS,Film-coated tablet,10,724.0,11,16.66283084004602,18.97490274684825,False
+domperidone,Motilone,Coated tablet,10,244.8,5,15.064615384615385,18.294791589362053,False
+doxycycline,Doxydar,"Capsule, hard",100,425.25,6,14.740034662045058,18.14787602248096,False
+losartan potassium,Lacine,Film-coated tablet,50,544.3,6,13.117528827513823,17.361288798874195,False
+voriconazole,Voconza,Injection,200,2831.0,9,10.000000000000002,15.530936452244838,False
+sildenafil,Aladin,Tablet,50,3713.35,25,84.97368421052627,15.458764616671168,False
+chlorpheniramine maleate,Zistan,Tablet,4,56.6,5,8.511278195488721,14.44368992050157,False
+lisinopril,ZINOPRIL,Tablet,5,134.3,5,8.5,14.434746272782345,False
+lisinopril,ZINOPRIL,Tablet,10,221.0,5,8.499999999999996,14.434746272782343,False
+tadalafil,Falofil,Tablet,5,17.15,29,0.12596401028277626,-13.974014761950247,False
+omeprazole,Emopack,Powder for solution for injection/infusion,40,225.0,7,9.000000000000002,13.495695358003932,False
+montelukast sodium,Broncast Pediatric,Chewable tablet,5,1429.2,18,22.227060653188172,13.223678470671448,False
+metronidazole,MOPIZALE 500MG/100ML SOLUTION FOR INFUSION,Solution for infusion,5,68.0,5,6.800000000000001,12.929643019168001,False

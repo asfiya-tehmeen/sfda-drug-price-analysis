@@ -1,0 +1,248 @@
+molecule,dosage_group,strength_first,n_unbranded,n_brand,ratio,n_competitors_same_form,ci_lo,ci_hi,band
+abiraterone acetate,tablet,250.0,2,7,0.9956916958621342,15.0,0.7567411475099413,1.2346875,high
+abiraterone acetate,tablet,500.0,1,6,1.034484447470112,15.0,,,high
+acyclovir,injection_infusion,250.0,1,1,9.0,1.0,,,low
+adrenaline,injection_infusion,1.0,2,2,3.2728124999999997,9.0,0.23937499999999998,6.30625,mid
+alfacalcidol,capsule,0.25,1,1,1.0779661016949154,3.0,,,low
+alfacalcidol,capsule,1.0,1,1,1.0771884432945236,3.0,,,low
+ambrisentan,tablet,5.0,1,2,0.8965416006106512,5.0,,,low
+ambrisentan,tablet,10.0,1,2,0.8965416006106512,5.0,,,low
+amikacin,injection_infusion,50.0,1,1,0.19011976047904192,5.0,,,low
+amikacin,injection_infusion,250.0,1,3,0.17977011494252873,5.0,,,low
+amlodipine besilate,oral_liquid,1.0,1,1,1.1449573019133066,1.0,,,low
+amphotericin b,injection_infusion,50.0,1,3,1.0833348280748327,4.0,,,low
+anastrozole,tablet,1.0,2,3,1.1875,4.0,0.6953103822174032,1.4914367269267366,low
+anidulafungin,injection_infusion,100.0,1,3,1.07339264051759,3.0,,,low
+apixaban,tablet,2.5,4,19,0.7596089008766015,40.0,0.41424520215239685,1.925974025974026,high
+apixaban,tablet,5.0,3,15,0.962987012987013,40.0,0.5,1.1649016641452343,high
+arsenic trioxide,injection_infusion,1.0,2,1,1.0,2.0,,,low
+azacitidine,injection_infusion,100.0,3,6,0.9917336845349848,8.0,0.7623001968031488,1.308092224231465,mid
+azathioprine,tablet,50.0,1,1,0.9499509322865554,1.0,,,low
+azithromycin,injection_infusion,500.0,3,3,0.6128318584070795,5.0,0.1312485193082208,15.225631768953068,low
+bendamustine hydrochloride,injection_infusion,100.0,1,6,0.8275896389559333,11.0,,,mid
+bicalutamide,tablet,50.0,1,2,0.6347612672913878,2.0,,,low
+bivalirudin,injection_infusion,250.0,1,2,0.9986852858614931,2.0,,,low
+bleomycin sulfate,injection_infusion,15.0,1,1,0.9285714285714285,1.0,,,low
+bortezomib,injection_infusion,3.5,3,10,1.0,14.0,0.8064044153054044,1.0,high
+bosentan,tablet,62.5,1,5,1.0,11.0,,,mid
+bosentan,tablet,125.0,1,5,0.9000024527237498,11.0,,,mid
+bupivacaine,injection_infusion,5.0,1,3,0.6746166950596252,4.0,,,low
+busulfan,injection_infusion,6.0,1,2,1.0000000000000002,2.0,,,low
+cabazitaxel,injection_infusion,60.0,1,1,0.8500010202624114,3.0,,,low
+cabozantinib,tablet,20.0,1,1,0.9333322029300054,5.0,,,low
+cabozantinib,tablet,40.0,1,1,0.9333322029300054,5.0,,,low
+cabozantinib,tablet,60.0,1,1,0.9333322029300054,5.0,,,low
+capecitabine,tablet,150.0,1,4,1.133407892634606,12.0,,,mid
+capecitabine,tablet,500.0,1,7,0.6726616611373029,12.0,,,mid
+carboplatin,injection_infusion,10.0,2,2,1.1442685072404926,3.0,0.5838150289017342,2.2110019646365426,low
+carfilzomib,injection_infusion,60.0,2,4,1.0,7.0,0.781255164923382,1.0833307099008342,mid
+carglumic acid,tablet,200.0,2,4,0.46709335460052326,5.0,0.057222268803373826,2.418098949272841,low
+carmustine,injection_infusion,100.0,1,2,1.150554675118859,2.0,,,low
+cefotaxime,injection_infusion,1.0,1,3,1.1729055258467023,5.0,,,low
+cefotaxime,injection_infusion,500.0,1,1,1.1752873563218391,5.0,,,low
+ceftazidime,injection_infusion,1.0,1,5,0.9423076923076922,8.0,,,mid
+ceftriaxone,injection_infusion,1.0,2,8,0.46550724637681157,30.0,0.060971905846621106,0.6268412438625204,high
+ceftriaxone,injection_infusion,500.0,1,13,0.673289183222958,30.0,,,high
+ceftriaxone,injection_infusion,1000.0,1,3,0.1970967741935484,30.0,,,high
+cefuroxime sodium,injection_infusion,750.0,2,6,3.8285714285714287,12.0,0.17866666666666667,8.507936507936508,mid
+cisatracurium,injection_infusion,2.0,3,6,0.9596100278551534,9.0,0.19992821249102655,3.611030478955007,mid
+citalopram,tablet,20.0,1,2,0.4503870513722731,5.0,,,low
+citalopram,tablet,40.0,1,1,0.62,5.0,,,low
+clofarabine,injection_infusion,1.0,1,3,0.43300845028292245,3.0,,,low
+colistimethate sodium,injection_infusion,1.0,1,1,1.0526369135196991,4.0,,,low
+cyclopentolate,ophthalmic,1.0,1,2,2.0724137931034483,3.0,,,low
+dapagliflozin,tablet,5.0,1,13,1.0650974623023173,27.0,,,high
+dapagliflozin,tablet,10.0,1,13,1.0650974623023173,27.0,,,high
+daptomycin,injection_infusion,500.0,1,3,0.9311224489795918,5.0,,,low
+dasatinib,tablet,20.0,1,4,0.8085197934595527,26.0,,,high
+dasatinib,tablet,50.0,1,6,0.8340679806427024,26.0,,,high
+dasatinib,tablet,70.0,1,6,0.8947384173350892,26.0,,,high
+dasatinib,tablet,100.0,1,2,0.5000032329746169,26.0,,,high
+dasatinib,tablet,140.0,1,3,0.4086184940229224,26.0,,,high
+decitabine,injection_infusion,50.0,1,1,1.0526315789473684,1.0,,,low
+desloratadine,tablet,5.0,1,17,0.7188841201716738,17.0,,,high
+dexmedetomidine,injection_infusion,4.0,1,3,1.6664716208308952,12.0,,,mid
+diacerein,capsule,50.0,2,1,0.9499553172475423,2.0,,,low
+dimethyl fumarate,capsule,120.0,2,8,1.1989854738298362,19.0,0.5012531328320802,2.030192608016658,high
+dimethyl fumarate,capsule,240.0,2,8,0.35714006112007685,19.0,0.15721424468696152,0.5541827029811115,high
+dobutamine,injection_infusion,12.5,2,1,0.7437400950871632,2.0,,,low
+docetaxel,injection_infusion,10.0,4,2,1.1855366190695533,24.0,0.35715108245048366,5.541455550437586,high
+docetaxel,injection_infusion,20.0,9,10,1.0,24.0,0.15396341463414634,2.02321875711359,high
+dopamine hydrochloride,injection_infusion,40.0,1,2,0.2609494150996128,4.0,,,low
+doxorubicin hydrochloride,injection_infusion,2.0,2,2,0.0415534723550794,3.0,0.011288313983850882,0.11724322695154216,low
+eltrombopag olamine,tablet,25.0,1,5,1.7374640272085113,11.0,,,mid
+eltrombopag olamine,tablet,50.0,1,5,0.9230735690070527,11.0,,,mid
+enoxaparin sodium,injection_infusion,2000.0,2,6,2.072751322751323,35.0,1.0,3.228021978021978,high
+enoxaparin sodium,injection_infusion,4000.0,2,6,2.174193548387097,35.0,0.9970414201183434,3.585106382978723,high
+enoxaparin sodium,injection_infusion,6000.0,2,6,2.168396770472895,35.0,1.0,3.551637279596977,high
+enoxaparin sodium,injection_infusion,8000.0,2,6,2.160764212488351,35.0,0.9991379310344828,3.5273833671399597,high
+epirubicin hydrochloride,injection_infusion,2.0,1,2,0.42871267549930786,2.0,,,low
+erlotinib,tablet,100.0,2,4,0.9487088936603005,13.0,0.9000040202082468,1.0197075748143876,high
+erlotinib,tablet,150.0,2,4,1.0,13.0,0.9000020366183988,1.0041925624623638,high
+escitalopram,tablet,10.0,1,12,2.502145922746781,27.0,,,high
+escitalopram,tablet,15.0,1,1,3.5708460754332316,27.0,,,high
+escitalopram,tablet,20.0,1,11,2.7836710369487485,27.0,,,high
+esomeprazole magnesium,capsule,20.0,2,3,0.7564224548049477,9.0,0.4944954128440367,1.9499072356215212,mid
+esomeprazole magnesium,capsule,40.0,2,3,0.7798933739527799,9.0,0.5420353982300885,1.7863945578231295,mid
+etoposide,injection_infusion,20.0,1,2,0.6647374948325756,2.0,,,low
+everolimus,tablet,5.0,1,2,0.9904234690008556,7.0,,,mid
+everolimus,tablet,10.0,1,2,0.9654259064663249,7.0,,,mid
+famotidine,injection_infusion,10.0,1,1,0.18988326848249026,1.0,,,low
+famotidine,tablet,10.0,1,1,2.992248062015504,5.0,,,low
+famotidine,tablet,20.0,1,1,0.9974160206718345,5.0,,,low
+famotidine,tablet,40.0,1,1,3.0,5.0,,,low
+fenofibrate,tablet,145.0,1,2,0.6295218295218296,4.0,,,low
+ferric carboxymaltose,injection_infusion,50.0,1,8,0.7472554582459602,8.0,,,mid
+flumazenil,injection_infusion,0.1,1,2,0.851697074712058,2.0,,,low
+fluorouracil,injection_infusion,50.0,3,1,0.399492385786802,3.0,,,low
+fluvoxamine maleate,capsule,100.0,1,2,0.6207492795389049,6.0,,,mid
+folic acid,tablet,1.0,3,2,1.6897959183673468,8.0,0.4019607843137255,2.7010869565217397,mid
+folic acid,tablet,5.0,2,2,1.0959183673469388,8.0,0.4019607843137255,2.25,mid
+fondaparinux sodium,injection_infusion,5.0,1,1,0.16997943797121318,2.0,,,low
+foscarnet,injection_infusion,24.0,1,1,1.0,1.0,,,low
+fulvestrant,injection_infusion,50.0,1,5,1.052644144681867,6.0,,,mid
+furosemide,injection_infusion,10.0,1,2,1.0210378681626928,2.0,,,low
+gemcitabine,injection_infusion,1000.0,3,2,0.616678105696637,10.0,0.2930579282497282,0.9296530573126317,mid
+gliclazide,tablet,30.0,1,3,0.9444444444444443,8.0,,,mid
+gliclazide,tablet,60.0,1,4,0.9189189189189187,8.0,,,mid
+glycerin,other,700.0,1,1,0.9500805152979066,9.0,,,mid
+glycerin,other,1400.0,1,1,0.9496764917325665,9.0,,,mid
+glycerin,other,2800.0,1,1,0.9499209277807064,9.0,,,mid
+heparin sodium,injection_infusion,1000.0,1,1,0.6684157416750757,6.0,,,mid
+heparin sodium,injection_infusion,5000.0,2,1,0.665196471531676,6.0,,,mid
+hydralazine,tablet,25.0,1,2,1.5384615384615385,6.0,,,mid
+hydralazine,tablet,50.0,1,2,1.5384615384615385,6.0,,,mid
+hydromorphone hydrochloride,injection_infusion,2.0,2,1,0.889344262295082,2.0,,,low
+hydroquinone,topical,4.0,1,3,1.1105610561056105,6.0,,,mid
+hydroxychloroquine sulfate,tablet,200.0,2,3,1.1893491124260354,4.0,0.5653543307086614,1.6669213139801373,low
+ibrutinib,capsule,140.0,1,3,0.887159572321969,3.0,,,low
+ibrutinib,tablet,140.0,1,1,0.9333333333333333,5.0,,,low
+ibrutinib,tablet,420.0,1,1,0.9333333333333333,5.0,,,low
+ibuprofen,injection_infusion,4.0,1,3,5.666666666666667,8.0,,,mid
+imatinib mesilate,tablet,100.0,1,4,1.6694699045639234,10.0,,,mid
+imatinib mesilate,tablet,400.0,1,5,2.372875061891401,10.0,,,mid
+iohexol,injection_infusion,300.0,1,7,0.7846585870529116,15.0,,,high
+irinotecan,injection_infusion,20.0,3,5,0.9425703930861445,8.0,0.39995957962813256,1.463472345459923,mid
+ketorolac tromethamine,injection_infusion,30.0,1,2,15.729349736379612,3.0,,,low
+labetalol hydrochloride,injection_infusion,5.0,2,1,0.5935412026726058,3.0,,,low
+lacosamide,oral_liquid,10.0,1,3,0.902264600715137,3.0,,,low
+lacosamide,tablet,50.0,2,9,1.1087984862819298,40.0,0.24946695095948826,2.4989339019189765,high
+lacosamide,tablet,100.0,2,9,0.9722991689750693,40.0,0.7979664014146773,1.7730844793713163,high
+lacosamide,tablet,150.0,2,7,0.9518005540166204,40.0,0.8870368774771671,1.776628748707342,high
+lacosamide,tablet,200.0,2,8,0.9509193972072446,40.0,0.7758412298391432,1.278818953323904,high
+lactulose,oral_liquid,0.65,1,2,1.3385826771653544,5.0,,,low
+lamotrigine,tablet,25.0,1,5,0.8994197292069632,17.0,,,high
+lamotrigine,tablet,50.0,1,3,0.8134146341463415,17.0,,,high
+lamotrigine,tablet,100.0,1,6,0.8527626956244011,17.0,,,high
+lenalidomide,capsule,5.0,3,4,1.0,27.0,0.8999991968774596,1.234569994422755,high
+lenalidomide,capsule,10.0,3,4,1.0,27.0,0.8999984680551194,1.2345709483180494,high
+lenalidomide,capsule,15.0,3,3,1.0,27.0,0.8530785901759557,1.2345708632098555,high
+lenalidomide,capsule,25.0,2,5,1.0,27.0,0.8999993387948876,1.0,high
+lenvatinib,capsule,4.0,1,2,1.0000051891712374,5.0,,,low
+lenvatinib,capsule,10.0,1,2,1.0000051891712374,5.0,,,low
+levetiracetam,injection_infusion,100.0,1,3,1.1111012354457381,3.0,,,low
+levofloxacin,tablet,500.0,1,22,0.780940594059406,36.0,,,high
+lidocaine hydrochloride,topical,5.0,1,2,0.028903271566628252,5.0,,,low
+lornoxicam,injection_infusion,8.0,1,2,0.8366412213740457,2.0,,,low
+macitentan,tablet,10.0,1,6,0.8959985001071352,6.0,,,mid
+meropenem,injection_infusion,500.0,1,7,1.0,16.0,,,high
+meropenem,injection_infusion,1000.0,1,3,1.0,16.0,,,high
+metformin hydrochloride,tablet,1000.0,1,10,0.8103727714748784,35.0,,,high
+methotrexate,injection_infusion,25.0,1,1,0.07052810902896081,13.0,,,high
+methotrexate,tablet,2.5,2,1,0.74,3.0,,,low
+metoprolol succinate,tablet,25.0,1,1,0.9508771929824562,6.0,,,mid
+metoprolol succinate,tablet,50.0,1,1,0.9508547008547009,6.0,,,mid
+metoprolol succinate,tablet,100.0,1,1,0.9505494505494506,6.0,,,mid
+metronidazole,injection_infusion,5.0,3,2,0.2564102564102564,4.0,0.11985294117647059,1.05,low
+micafungin,injection_infusion,50.0,2,2,5.232862745098039,6.0,0.8324283559577677,10.0,mid
+micafungin,injection_infusion,100.0,1,1,10.0,6.0,,,mid
+midazolam,injection_infusion,1.0,1,1,1.0,6.0,,,mid
+midazolam,injection_infusion,5.0,3,2,2.0684261974584555,6.0,0.7100271002710027,5.51578947368421,mid
+midodrine hydrochloride,tablet,2.5,1,2,9.901185770750988,2.0,,,low
+milrinone,injection_infusion,1.0,1,2,1.0810996563573883,2.0,,,low
+minoxidil,topical,2.0,1,2,0.9045879009338206,10.0,,,mid
+minoxidil,topical,5.0,1,7,0.8557863501483679,10.0,,,mid
+mometasone furoate,inhaled_nasal,0.05,1,6,0.9475015812776723,7.0,,,mid
+mometasone furoate,topical,0.1,1,21,1.0175438596491226,21.0,,,high
+montelukast sodium,tablet,5.0,2,16,0.7255054432348367,46.0,0.46346555323590816,0.9331259720062208,high
+montelukast sodium,tablet,10.0,2,16,0.7200839748075577,46.0,0.5066480055983206,1.0198776758409784,high
+mycophenolate sodium,tablet,180.0,1,2,1.6309733595936562,7.0,,,mid
+mycophenolate sodium,tablet,360.0,1,4,1.77154759894162,7.0,,,mid
+nelarabine,injection_infusion,5.0,2,1,3.320885261016087,2.0,,,low
+nilotinib,capsule,150.0,1,3,3.428625619384054,7.0,,,mid
+nilotinib,capsule,200.0,1,3,3.428603494070555,7.0,,,mid
+norepinephrine bitartrate,injection_infusion,1.0,1,4,1.2862108922363849,4.0,,,low
+octreotide acetate,injection_infusion,100.0,1,1,1.9,8.0,,,mid
+olanzapine,tablet,2.5,1,1,0.5643305439330545,30.0,,,high
+olanzapine,tablet,5.0,1,11,0.5679733110925771,30.0,,,high
+olanzapine,tablet,10.0,1,11,0.5367404017289601,30.0,,,high
+olaparib,tablet,100.0,1,1,0.24999840328030096,3.0,,,low
+olaparib,tablet,150.0,1,1,0.24999840328030096,3.0,,,low
+omega-3-acid ethyl esters,capsule,1000.0,2,1,0.5583978038432743,2.0,,,low
+ondansetron,injection_infusion,2.0,1,15,1.2207721587819467,15.0,,,high
+oseltamivir,capsule,75.0,1,3,0.3810151615029664,5.0,,,low
+oxaliplatin,injection_infusion,5.0,4,6,1.9929567131327954,15.0,0.6743947175348496,3.7674957841483985,high
+oxaliplatin,injection_infusion,50.0,1,1,0.41072352758513614,15.0,,,high
+oxaliplatin,injection_infusion,100.0,1,1,0.42137662408411186,15.0,,,high
+oxytocin,injection_infusion,5.0,1,2,0.28530259365994237,7.0,,,mid
+oxytocin,injection_infusion,10.0,1,4,0.6246056782334385,7.0,,,mid
+paclitaxel,injection_infusion,6.0,5,8,0.9838541502101174,13.0,0.19236677301193433,3.1415082932960856,high
+pantoprazole,tablet,20.0,1,13,2.8654545454545453,33.0,,,high
+paracetamol,injection_infusion,10.0,5,4,0.7723710588664114,8.0,0.0586372458882419,6.124277456647399,mid
+parecoxib,injection_infusion,40.0,1,2,1.0002007628990162,2.0,,,low
+paricalcitol,injection_infusion,5.0,2,4,1.4985381700054143,5.0,0.8966119794194739,2.16353824495542,low
+pemetrexed,injection_infusion,25.0,2,3,2.489919803965248,17.0,0.7340535570624066,13.969379784408684,high
+pemetrexed,injection_infusion,500.0,3,8,1.0,17.0,0.5981767964621549,1.3123904205922585,high
+phenylephrine hydrochloride,injection_infusion,10.0,2,1,1.1833511777301926,3.0,,,low
+phenylephrine hydrochloride,ophthalmic,2.5,1,1,6.462365591397849,3.0,,,low
+phenylephrine hydrochloride,ophthalmic,10.0,1,1,1.226530612244898,3.0,,,low
+pirfenidone,tablet,267.0,1,3,0.5255762032963425,5.0,,,low
+plerixafor,injection_infusion,20.0,1,5,0.8586376274917763,5.0,,,low
+pomalidomide,capsule,1.0,3,2,1.015625357041045,20.0,0.7718748770270416,1.3541686565962812,high
+pomalidomide,capsule,2.0,3,2,1.015625357041045,20.0,0.7718748770270416,1.3541686565962812,high
+pomalidomide,capsule,3.0,3,2,1.0299693472536973,20.0,0.7718749838537173,1.4063987192902434,high
+pomalidomide,capsule,4.0,3,3,1.083332521953191,20.0,0.7718749838537173,1.4063987192902434,high
+posaconazole,tablet,100.0,2,10,0.9004525826274707,11.0,0.34817074394428954,1.6085770214484265,mid
+propofol,injection_infusion,1.0,2,2,0.19538334707337182,19.0,0.08427405834357886,0.7000000000000001,high
+propofol,injection_infusion,10.0,4,6,1.29288472145615,19.0,0.5234901273670732,4.083623693379791,high
+propofol,injection_infusion,20.0,4,1,0.14077191136826878,19.0,,,high
+pyridostigmine,tablet,60.0,1,1,0.9311377245508983,1.0,,,low
+ramipril,tablet,5.0,1,1,0.7166921898928025,4.0,,,low
+ramipril,tablet,10.0,1,1,0.5913978494623656,4.0,,,low
+rivaroxaban,tablet,10.0,3,14,0.3763567028454093,51.0,0.3569838619922093,1.8791452147484962,high
+rivaroxaban,tablet,15.0,3,13,1.0,51.0,0.7557025099013213,1.4001112966054536,high
+rivaroxaban,tablet,20.0,3,11,0.9994435169727324,51.0,0.8713951675759938,1.0709600477042338,high
+rocuronium bromide,injection_infusion,10.0,2,2,0.9444587961766985,3.0,0.8947626040137053,1.0,low
+ropivacaine,injection_infusion,2.0,1,1,6.809473124002128,4.0,,,low
+sevoflurane,inhaled_nasal,250.0,1,1,1.0,4.0,,,low
+sildenafil,oral_liquid,10.0,2,1,1.174810183117463,2.0,,,low
+sirolimus,oral_liquid,1.0,1,1,0.8510398866336014,1.0,,,low
+sirolimus,tablet,1.0,1,1,3.1113202473783272,2.0,,,low
+sodium chloride,oral_liquid,0.9,5,9,2.6136363636363633,27.0,1.6580310880829014,15.568181818181817,high
+sorafenib,tablet,200.0,1,4,1.1237901327648696,4.0,,,low
+sugammadex,injection_infusion,100.0,4,18,0.9236198783427063,21.0,0.5451501279432823,2.500057385515896,high
+sunitinib,capsule,12.5,1,6,0.937354079742126,20.0,,,high
+sunitinib,capsule,25.0,1,6,0.937350549976088,20.0,,,high
+sunitinib,capsule,50.0,1,6,0.8841642283954103,20.0,,,high
+tadalafil,tablet,5.0,2,27,0.9665809768637531,87.0,0.9331619537275063,1.0003800836183958,high
+tadalafil,tablet,20.0,2,49,0.99140625,87.0,0.9784117193523517,1.0039556962025316,high
+teriflunomide,tablet,14.0,2,9,0.9838434982738781,10.0,0.753206023242326,1.3934191702432046,mid
+ticagrelor,tablet,90.0,2,13,0.75,19.0,0.4998508798091261,1.070926517571885,high
+timolol maleate,ophthalmic,0.5,1,4,1.257602862254025,6.0,,,mid
+tiotropium,capsule,18.0,1,2,0.9412494828299546,4.0,,,low
+tranexamic acid,injection_infusion,100.0,2,6,0.3780487804878049,7.0,0.2,1.0,mid
+trazodone,tablet,100.0,1,1,2.0865533230293662,1.0,,,low
+tretinoin,topical,0.05,1,4,0.9430894308943089,5.0,,,low
+tropicamide,ophthalmic,1.0,1,2,1.6497854077253218,3.0,,,low
+valganciclovir,oral_liquid,50.0,1,1,0.9499803227075955,1.0,,,low
+vardenafil,tablet,20.0,1,3,1.0,8.0,,,mid
+varenicline tartrate,tablet,0.5,2,5,0.9814981949458484,16.0,0.9629963898916968,1.962996389891697,high
+varenicline tartrate,tablet,1.0,1,8,1.0,16.0,,,high
+vasopressin,injection_infusion,20.0,1,2,0.7108496899175244,2.0,,,low
+verapamil hydrochloride,injection_infusion,2.5,1,2,1.0,2.0,,,low
+voriconazole,tablet,200.0,1,7,1.0,11.0,,,mid
+warfarin sodium,tablet,2.5,1,1,0.9498910675381266,11.0,,,mid
+warfarin sodium,tablet,3.0,1,1,0.9502053388090348,11.0,,,mid
+warfarin sodium,tablet,5.0,2,1,0.9496183206106871,11.0,,,mid
+warfarin sodium,tablet,10.0,1,1,0.9500221141088014,11.0,,,mid
+zoledronic acid,injection_infusion,0.05,1,2,0.9894268016542845,7.0,,,mid

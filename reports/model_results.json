@@ -1,0 +1,44 @@
+{
+  "n_rows": 8160,
+  "n_molecules": 1689,
+  "cv": "GroupKFold(5) by molecule",
+  "baseline_form_median_groupcv": {
+    "rmse_log": 2.0520938025289364,
+    "r2_log": 0.08529377424472451,
+    "mape": 3.8192130983797434,
+    "median_ape": 0.860851322983953
+  },
+  "baseline_molecule_median_RANDOM_cv_optimistic": {
+    "rmse_log": 1.1337711813281952,
+    "r2_log": 0.7207854505884697,
+    "mape": 0.9278616612130607,
+    "median_ape": 0.3790173682626098
+  },
+  "ols_groupcv": {
+    "rmse_log": 1.8999089214137008,
+    "r2_log": 0.21593371118866844,
+    "mape": 3.774940885605803,
+    "median_ape": 0.9328837803755722
+  },
+  "lightgbm_groupcv": {
+    "rmse_log": 1.8888297054371084,
+    "r2_log": 0.2250515286148721,
+    "mape": 4.70355777418677,
+    "median_ape": 0.8860378447847492
+  },
+  "beats_fair_baseline": {
+    "ols": true,
+    "lightgbm": true
+  },
+  "ols_unbranded_effect_pct": -47.10763169365859,
+  "ols_unbranded_p": 2.338135837084099e-13,
+  "shap_mean_abs_top": {
+    "log_competitors": 0.6968,
+    "log_strength": 0.3493,
+    "log_competitors_form": 0.3459,
+    "form_injection_infusion": 0.3062,
+    "is_combo": 0.2199,
+    "form_tablet": 0.149
+  },
+  "residual_model": "lightgbm"
+}

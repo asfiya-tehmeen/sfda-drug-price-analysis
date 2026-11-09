@@ -1,0 +1,31 @@
+{
+  "n_all": 8171,
+  "n_main": 8160,
+  "n_advanced_excluded": 11,
+  "median_price_unbranded": 66.1,
+  "median_price_brand_named": 83.75,
+  "n_unbranded": 841,
+  "n_cells": 247,
+  "median_ratio_unbranded_to_brand": 0.9518005540166204,
+  "ratio_ci95": [
+    0.9487088936603005,
+    0.9986852858614931
+  ],
+  "share_cells_unbranded_cheaper": 0.5668016194331984,
+  "spearman_rho_competition_vs_ratio": 0.000324077541377072,
+  "spearman_p": 0.9959567831418262,
+  "band_sizes": {
+    "low": 99,
+    "mid": 68,
+    "high": 80
+  },
+  "kruskal_H": 2.8559876108028956,
+  "kruskal_p": 0.23978950442044084,
+  "pairwise_mwu_holm": {
+    "low-mid": 0.2187662030772592,
+    "low-high": 0.915633541042263,
+    "mid-high": 0.5432361740782294
+  },
+  "n_scored_for_outliers": 3183,
+  "hhi": "skipped: no ATC or therapeutic class in the list data"
+}

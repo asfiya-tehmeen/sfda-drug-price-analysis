@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+lightgbm
+shap
+rapidfuzz
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+pyarrow
+pytest
+jupyter

@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+
+# Personal project notes (local only)
+my_README.md
+
+# Scraped SFDA data and row-level derivatives: do not republish (see reports/scraping_notes.md)
+data/raw/*
+data/clean/*
+!data/raw/.gitkeep
+!data/clean/.gitkeep

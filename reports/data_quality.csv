@@ -1,0 +1,10 @@
+metric,value
+rows_in,8246.0
+dropped_duplicate_register_no,74.0
+dropped_price_missing_or_nonpositive,1.0
+rows_out,8171.0
+parse_ok_strength_pct,98.9
+strength_matches_ingredients_pct,98.2
+combination_products,1297.0
+advanced_therapies_flagged,11.0
+dosage_group_other,72.0
