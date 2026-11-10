@@ -14,3 +14,4 @@ seaborn
 pyarrow
 pytest
 jupyter
+duckdb

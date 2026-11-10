@@ -23,7 +23,8 @@ Pricing and reimbursement teams prepare submissions by comparing a product with 
    - Spearman correlation and Kruskal-Wallis tests of whether competition changes the price gap, with Holm-corrected pairwise tests
    - Robust z-scores (median and MAD) of log price to flag products far from their comparators
 5. **Model** (`src/model.py`). Price is modelled with OLS (robust standard errors) and LightGBM, validated with GroupKFold by molecule so that every test molecule is unseen during training. SHAP explains the gradient-boosting model.
-6. **Test.** 40 pytest tests cover parsing, cleaning, features and modelling helpers.
+6. **SQL layer.** `sql/` reproduces the cleaning and the analyst-style aggregates in DuckDB (`src/run_sql.py`), and a test reconciles it with the pandas output.
+7. **Test.** 47 pytest tests cover parsing, cleaning, features, modelling helpers and the SQL reconciliation.
 
 ## Results
 
@@ -35,6 +36,7 @@ Pricing and reimbursement teams prepare submissions by comparing a product with 
 | Price model on unseen molecules (log scale) | LightGBM RMSE **1.89** (R² 0.23); OLS RMSE 1.90 (R² 0.22); dosage-group baseline RMSE 2.05 (R² 0.09) |
 | Most important model features (SHAP) | competitor count, strength, injection form, combination flag |
 | Products priced far from their comparators (robust z beyond 3.5) | 216 of 3,183 scored |
+| SQL (DuckDB) reproduction | The cleaning, data-quality counts and the 247 like-for-like cells (median ratio 0.95) are reproduced in SQL (`sql/`, `python src/run_sql.py`) and reconciled with the Python pipeline row by row in `tests/test_sql.py` |
 
 Unbranded products are priced about 5% below brand-named products of the same molecule, form and strength, and the number of competing registrations does not change that gap. The molecule itself explains most of the price.
 
@@ -49,9 +51,10 @@ Figures and result tables are in `reports/`; the full write-up is in [`reports/R
 ## Project structure
 
 ```
-src/        scraper.py, parse.py, clean.py, features.py, analysis.py, model.py
-tests/      test_parse.py, test_clean.py, test_features.py, test_model.py
-reports/    REPORT.md, figures, result tables
+src/        scraper.py, parse.py, clean.py, features.py, analysis.py, model.py, run_sql.py
+sql/        01_clean.sql, 02_data_quality.sql, 03_aggregates.sql
+tests/      test_parse.py, test_clean.py, test_features.py, test_model.py, test_sql.py
+reports/    REPORT.md, figures, result tables, sql/ (exported SQL views)
 data/       raw/ and clean/ (empty in the repository)
 ```
 
@@ -68,6 +71,7 @@ python src/clean.py
 python src/features.py
 python src/analysis.py
 python src/model.py
+python src/run_sql.py            # DuckDB version of the cleaning and aggregates
 pytest
 ```
 
@@ -77,4 +81,4 @@ The scraped data is not included in this repository. Running the scraper reprodu
 
 ## Tech
 
-Python, pandas, NumPy, SciPy, statsmodels, scikit-learn, LightGBM, SHAP, BeautifulSoup, matplotlib, pytest.
+Python, pandas, DuckDB (SQL), NumPy, SciPy, statsmodels, scikit-learn, LightGBM, SHAP, BeautifulSoup, matplotlib, pytest.

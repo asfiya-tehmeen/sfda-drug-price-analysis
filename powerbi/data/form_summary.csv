@@ -1,0 +1,9 @@
+dosage_group,n_products,pct_of_products,median_price,p25_price,p75_price,n_unbranded
+tablet,3656,44.8,73.5,36.275,183.0,172
+injection_infusion,2227,27.3,363.0,63.75,1836.975,472
+capsule,785,9.6,103.9,40.9,2256.0,58
+oral_liquid,728,8.9,26.65,11.4,105.2125,104
+topical,385,4.7,21.0,11.65,60.1,13
+ophthalmic,157,1.9,31.15,15.75,44.0,15
+inhaled_nasal,150,1.8,72.775,26.3875,147.64999999999998,4
+other,72,0.9,26.125,10.15,74.69875,3

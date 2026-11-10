@@ -1,0 +1,17 @@
+dosage_group,brand_type,n_products,median_price,p25_price,p75_price
+capsule,Brand-named,727,93.75,39.075,977.1
+capsule,Unbranded,58,8807.55,133.53750000000002,18596.55
+inhaled_nasal,Brand-named,146,72.775,26.3875,147.64999999999998
+inhaled_nasal,Unbranded,4,74.42500000000001,32.225,202.9375
+injection_infusion,Brand-named,1755,631.15,112.875,2411.8999999999996
+injection_infusion,Unbranded,472,47.5,8.4,273.51250000000005
+ophthalmic,Brand-named,142,29.525,15.062499999999998,39.4875
+ophthalmic,Unbranded,15,60.05,41.599999999999994,60.1
+oral_liquid,Brand-named,624,26.25,11.4,96.575
+oral_liquid,Unbranded,104,27.1,11.4,166.83749999999998
+other,Brand-named,69,23.9,10.15,74.0
+other,Unbranded,3,66.05,62.525,78.07499999999999
+tablet,Brand-named,3484,71.45,36.0,179.7
+tablet,Unbranded,172,129.2,52.49999999999999,1325.69975
+topical,Brand-named,372,20.85,11.575,59.12499999999999
+topical,Unbranded,13,55.7,17.4,66.1

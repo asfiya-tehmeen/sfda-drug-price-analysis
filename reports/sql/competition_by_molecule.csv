@@ -1,0 +1,1690 @@
+molecule,n_registrations,n_dosage_groups,median_price,competition_rank
+tadalafil,88,1,73.25,1
+sodium chloride,81,3,7.45,2
+rosuvastatin,74,1,53.349999999999994,3
+quetiapine,64,2,95.225,4
+levetiracetam,62,3,106.525,5
+etoricoxib,55,1,41.0,6
+sildenafil,55,3,43.7,6
+paracetamol,54,4,8.95,8
+diclofenac sodium,53,6,18.95,9
+rivaroxaban,52,1,179.7,10
+montelukast sodium,50,2,64.57499999999999,11
+lacosamide,48,3,180.5,12
+pantoprazole,48,2,36.4,12
+levofloxacin,45,3,40.4,14
+"amoxicillin,clavulanic acid",44,3,31.049999999999997,15
+ondansetron,43,4,100.8,16
+apixaban,41,1,222.45,17
+aripiprazole,40,3,200.0,18
+azithromycin,40,4,32.45,18
+"dextrose,sodium chloride",40,2,7.05,18
+"valsartan,hydrochlorothiazide",40,1,30.3,18
+dextrose,39,1,5.8,22
+pregabalin,38,1,82.9,23
+ibuprofen,37,4,12.25,24
+metformin hydrochloride,37,2,26.45,24
+atorvastatin calcium,36,1,43.45,26
+enoxaparin sodium,36,1,43.0,26
+ceftriaxone,35,2,30.55,28
+celecoxib,34,1,25.0,29
+dapoxetine,33,1,60.3,30
+deferasirox,33,2,1044.0,30
+clarithromycin,32,3,47.849999999999994,32
+olanzapine,32,2,158.175,32
+tacrolimus,32,2,360.15,32
+omeprazole,31,4,45.95,35
+mometasone furoate,30,2,19.95,36
+"valsartan,hydrochlorothiazide,amlodipine besilate",30,1,58.675,36
+moxifloxacin hydrochloride,29,3,58.6,38
+dapagliflozin,28,1,135.95,39
+escitalopram,28,1,71.85,39
+lenalidomide,28,1,12100.575,39
+solifenacin succinate,28,1,105.275,39
+dasatinib,27,1,5979.0,43
+"irbesartan,hydrochlorothiazide",27,1,47.7,43
+palbociclib,27,2,9738.0,43
+vildagliptin,27,1,62.05,43
+amlodipine besilate,26,3,53.35,47
+betahistine dihydrochloride,26,1,40.6,47
+"olmesartan medoxomil,amlodipine besilate",26,1,63.8245,47
+risperidone,26,3,125.875,47
+adalimumab,25,1,2035.35,51
+atomoxetine hydrochloride,25,1,181.3,51
+bisoprolol fumarate,25,1,23.05,51
+desloratadine,25,2,18.85,51
+"dextrose,sodium chloride, calcium chloride,magnesium chloride,sodium lactate",25,1,17.45,51
+docetaxel,25,1,444.4,51
+voriconazole,25,3,616.0,51
+cefuroxime axetil,24,2,41.325,58
+esomeprazole,24,4,58.575,58
+miconazole nitrate,24,4,14.1,58
+colecalciferol,23,3,33.0,61
+glimepiride,23,1,24.95,61
+human normal immunoglobulin,23,1,1777.65,61
+metronidazole,23,4,12.05,61
+valsartan,23,1,24.5,61
+acyclovir,22,4,25.35,66
+ciprofloxacin,22,4,46.1,66
+fluconazole,22,3,27.725,66
+sugammadex,22,1,1742.6,66
+fentanyl,21,4,110.5,70
+"olmesartan medoxomil,hydrochlorothiazide",21,1,63.8,70
+pomalidomide,21,1,22712.049,70
+sunitinib,21,1,6223.0,70
+ustekinumab,21,1,6106.8,70
+albumin human,20,2,188.825,75
+amoxicillin,20,2,19.625,75
+cefdinir,20,3,61.900000000000006,75
+dimethyl fumarate,20,1,674.875,75
+fusidic acid,20,2,9.625,75
+propofol,20,1,63.175,75
+ticagrelor,20,1,156.5,75
+"valsartan,amlodipine besilate",20,1,59.875,75
+cefalexin,19,2,16.15,83
+irbesartan,19,1,45.95,83
+methotrexate,19,3,107.5,83
+normal human immunoglobulin,19,2,2241.4,83
+olmesartan medoxomil,19,1,51.5,83
+sitagliptin phosphate monohydrate,19,1,74.4,83
+cholecalciferol,18,3,41.525000000000006,89
+lamotrigine,18,1,45.975,89
+pemetrexed,18,1,2595.15,89
+semaglutide,18,2,418.65,89
+water,18,2,10.425,89
+brexpiprazole,17,1,308.6,94
+cefixime,17,3,48.85,94
+levocetirizine dihydrochloride,17,2,19.4,94
+lurasidone,17,1,196.25,94
+meropenem,17,1,356.4,94
+selexipag,17,1,7649.05,94
+vancomycin,17,1,57.9,94
+varenicline tartrate,17,1,110.8,94
+abiraterone acetate,16,1,5280.5,102
+cetirizine hydrochloride,16,2,11.8,102
+entecavir,16,1,1387.1,102
+"fluticasone propionate,salmeterol",16,1,113.3,102
+gabapentin,16,2,91.05,102
+iohexol,16,1,684.425,102
+linezolid,16,3,1327.9,102
+oxaliplatin,16,1,237.25,102
+rivastigmine,16,2,166.95,102
+salbutamol,16,4,12.5,102
+varenicline,16,1,128.95,102
+bortezomib,15,1,2177.05,113
+diclofenac potassium,15,2,21.45,113
+imatinib mesilate,15,2,1766.8,113
+lidocaine hydrochloride,15,3,8.4,113
+meloxicam,15,3,21.85,113
+paclitaxel,15,2,778.45,113
+simvastatin,15,1,60.25,113
+sodium hyaluronate,15,4,249.55,113
+trastuzumab,15,1,2882.35,113
+baclofen,14,3,57.775,122
+cefuroxime sodium,14,2,15.649999999999999,122
+cinacalcet,14,1,581.75,122
+erlotinib,14,1,3726.15,122
+febuxostat,14,1,88.55,122
+fingolimod hydrochloride,14,1,3117.7995,122
+hyaluronic acid,14,3,244.3985,122
+iodixanol,14,1,825.4749999999999,122
+lisinopril,14,1,44.35,122
+mesalazine,14,3,152.3,122
+paliperidone,14,2,1023.65,122
+riociguat,14,1,3765.35,122
+xylometazoline hydrochloride,14,1,9.625,122
+amisulpride,13,1,94.3,135
+"amlodipine besilate,perindopril arginine",13,1,75.35,135
+budesonide,13,3,134.5,135
+capecitabine,13,1,658.4,135
+dexmedetomidine,13,1,605.85,135
+epoetin alfa,13,1,425.95,135
+fluticasone propionate,13,2,45.0,135
+isotretinoin,13,1,76.1,135
+linagliptin,13,1,68.05,135
+"linagliptin,metformin hydrochloride",13,1,121.45,135
+loratadine,13,2,17.65,135
+posaconazole,13,2,2325.35,135
+"rosuvastatin,ezetimibe",13,2,97.65,135
+"sacubitril,valsartan",13,1,344.25,135
+sertraline,13,1,95.7,135
+sitagliptin hydrochloride,13,1,74.4,135
+warfarin sodium,13,2,78.65,135
+bendamustine hydrochloride,12,1,1039.375,152
+bevacizumab,12,1,1867.6999999999998,152
+bosentan,12,1,5504.1,152
+brivaracetam,12,3,268.6,152
+dabigatran etexilate,12,1,125.1,152
+eltrombopag olamine,12,1,3968.225,152
+memantine hydrochloride,12,1,102.55,152
+minoxidil,12,2,66.825,152
+mirtazapine,12,1,74.6,152
+perampanel,12,1,329.375,152
+sumatriptan,12,3,68.2,152
+tirzepatide,12,1,1261.4,152
+topiramate,12,2,50.6,152
+atenolol,11,1,19.25,165
+atropine sulfate,11,3,12.55,165
+betamethasone valerate,11,2,4.2,165
+candesartan cilexetil,11,1,34.45,165
+chlorpheniramine maleate,11,3,6.35,165
+"dapagliflozin,metformin hydrochloride",11,1,104.95,165
+darbepoetin alfa,11,1,1909.35,165
+duloxetine,11,1,72.2,165
+empagliflozin,11,1,128.4,165
+esomeprazole magnesium,11,2,52.55,165
+fexofenadine hydrochloride,11,1,16.85,165
+gemcitabine,11,1,179.7,165
+ioversol,11,1,2318.75,165
+"irbesartan,amlodipine besilate",11,1,95.65,165
+lornoxicam,11,2,17.5,165
+"omeprazole,sodium bicarbonate",11,1,87.5,165
+"sitagliptin phosphate,metformin hydrochloride",11,1,91.2,165
+teriflunomide,11,1,2172.5,165
+tofacitinib,11,1,3252.85,165
+tolvaptan,11,1,20397.95,165
+tranexamic acid,11,2,52.8,165
+adrenaline,10,1,303.0,186
+buprenorphine,10,2,333.85,186
+cefaclor,10,3,39.225,186
+cisatracurium,10,1,71.8,186
+clotrimazole,10,3,15.924999999999999,186
+famotidine,10,3,38.650000000000006,186
+fenofibrate,10,2,36.900000000000006,186
+finasteride,10,2,75.15,186
+fluoxetine,10,3,76.425,186
+glycerin,10,1,60.55,186
+hyoscine butylbromide,10,3,11.75,186
+ibrutinib,10,2,20005.375,186
+insulin glargine,10,2,204.175,186
+losartan potassium,10,1,46.425,186
+mebeverine hydrochloride,10,2,40.9,186
+methylphenidate,10,2,167.675,186
+mycophenolate mofetil,10,3,258.675,186
+"olmesartan medoxomil,hydrochlorothiazide,amlodipine besilate",10,1,77.3,186
+perindopril arginine,10,1,35.724999999999994,186
+sitagliptin phosphate,10,1,83.17500000000001,186
+"telmisartan,amlodipine besilate",10,1,59.2,186
+venlafaxine hydrochloride,10,2,92.675,186
+alirocumab,9,1,1755.0,208
+amikacin,9,3,97.85,208
+apremilast,9,1,1598.8,208
+azacitidine,9,1,884.8,208
+"candesartan cilexetil,hydrochlorothiazide",9,1,41.35,208
+ceftazidime,9,1,44.2,208
+clobetasol propionate,9,1,8.95,208
+clopidogrel,9,1,118.15,208
+ferric carboxymaltose,9,1,356.35,208
+filgrastim,9,1,788.85,208
+fluvoxamine maleate,9,2,62.15,208
+folic acid,9,1,15.3,208
+follitropin alfa,9,1,339.55,208
+furosemide,9,3,19.4,208
+gliclazide,9,1,21.6,208
+irinotecan,9,1,179.35,208
+levothyroxine sodium,9,1,22.25,208
+nicotine,9,3,60.1,208
+octreotide acetate,9,1,1510.3,208
+"olmesartan medoxomil,amlodipine besilate,hydrochlorothiazide",9,1,74.25,208
+omalizumab,9,1,1796.85,208
+"perindopril arginine,amlodipine besilate",9,1,60.7,208
+prednisolone,9,3,14.45,208
+"sodium chloride,potassium chloride",9,1,18.0,208
+somatropin,9,1,975.9,208
+vardenafil,9,1,59.95,208
+afatinib,8,1,5535.75,234
+balanced electrolytes,8,1,18.0,234
+brimonidine tartrate,8,2,36.575,234
+cabergoline,8,1,61.875,234
+caffeine citrate,8,2,748.45,234
+carbamazepine,8,2,30.65,234
+carfilzomib,8,1,3176.5,234
+carvedilol,8,1,26.525,234
+cefadroxil,8,2,23.375,234
+ciclosporin,8,4,411.125,234
+clindamycin phosphate,8,4,24.625,234
+diclofenac diethylamine,8,1,20.875,234
+domperidone,8,2,16.675,234
+donepezil hydrochloride,8,1,158.95,234
+etanercept,8,1,1742.45,234
+everolimus,8,1,9383.1,234
+gadoteric acid,8,2,799.95,234
+morphine sulfate,8,3,49.025,234
+mycophenolate sodium,8,1,372.65,234
+nilotinib,8,1,4951.95,234
+nitisinone,8,3,7618.575000000001,234
+nystatin,8,3,9.15,234
+oxytocin,8,1,21.8,234
+paricalcitol,8,2,257.525,234
+pegfilgrastim,8,1,1825.875,234
+phenylephrine hydrochloride,8,2,123.45,234
+pramipexole,8,1,146.85,234
+progesterone,8,5,75.9,234
+propranolol,8,2,30.8,234
+rituximab,8,1,2988.75,234
+ruxolitinib,8,1,11226.949,234
+simethicone,8,3,10.45,234
+"sitagliptin hydrochloride,metformin hydrochloride",8,1,92.75,234
+telmisartan,8,1,48.475,234
+tocilizumab,8,1,1307.15,234
+tramadol hydrochloride,8,3,20.4,234
+zoledronic acid,8,1,713.6,234
+adapalene,7,1,18.75,271
+ambroxol hydrochloride,7,2,14.7,271
+bromhexine,7,2,8.85,271
+calcium folinate,7,1,140.05,271
+cefazolin,7,1,23.2,271
+doxycycline,7,2,28.85,271
+eletriptan,7,1,67.85,271
+erdafitinib,7,1,28427.45,271
+erythromycin,7,2,9.95,271
+ezetimibe,7,1,118.5,271
+fulvestrant,7,1,1256.55,271
+gentamicin,7,2,12.0,271
+heparin sodium,7,1,278.5,271
+human coagulation factor viii,7,1,888.6,271
+"human coagulation factor viii,human von willebrand factor",7,1,1138.9,271
+hydralazine,7,1,50.0,271
+hydroquinone,7,1,29.25,271
+infliximab,7,1,1485.0,271
+iopromide,7,1,1066.05,271
+ketorolac tromethamine,7,3,35.2,271
+letrozole,7,1,165.2,271
+macitentan,7,1,5376.4,271
+"metformin hydrochloride,sitagliptin phosphate",7,1,106.4,271
+methylprednisolone,7,2,18.2,271
+metoclopramide hydrochloride,7,3,6.7,271
+metoprolol succinate,7,1,23.4,271
+micafungin,7,1,368.6,271
+"miconazole nitrate,mometasone furoate",7,1,30.35,271
+midazolam,7,1,26.2,271
+mupirocin calcium,7,2,28.45,271
+oxycodone hydrochloride,7,2,270.55,271
+"perindopril arginine,indapamide,amlodipine besilate",7,1,94.95,271
+pioglitazone,7,1,51.7,271
+pirfenidone,7,2,3984.85,271
+prucalopride,7,1,140.2,271
+sitagliptin,7,1,45.0,271
+tigecycline,7,1,870.55,271
+timolol maleate,7,1,27.25,271
+treprostinil,7,1,20588.9,271
+valganciclovir,7,2,2499.85,271
+valproate sodium,7,3,20.85,271
+verapamil hydrochloride,7,2,14.7,271
+acetylsalicylic acid,6,1,13.275,313
+adenosine,6,1,146.975,313
+aflibercept,6,1,2347.175,313
+ambrisentan,6,1,3288.75,313
+"atorvastatin calcium,amlodipine besilate",6,1,111.25,313
+"atorvastatin calcium,ezetimibe",6,1,125.32499999999999,313
+bupivacaine,6,2,39.6,313
+cabozantinib,6,1,14252.525,313
+calcium chloride,6,2,1.4,313
+captopril,6,2,25.9,313
+carboplatin,6,2,191.8,313
+carglumic acid,6,1,10200.85,313
+caspofungin,6,1,747.425,313
+caspofungin acetate,6,1,583.4749999999999,313
+cefotaxime,6,1,28.05,313
+citalopram,6,1,55.275,313
+cladribine,6,2,7080.05,313
+clindamycin hydrochloride,6,1,23.575,313
+coagulation factor ix recombinant human,6,1,994.7249999999999,313
+cyclobenzaprine hydrochloride,6,2,32.825,313
+cytarabine,6,1,112.55000000000001,313
+daptomycin,6,1,346.75,313
+darunavir,6,1,1119.175,313
+dexlansoprazole,6,1,72.15,313
+"dextrose,sodium chloride,potassium chloride",6,2,18.0,313
+dinoprostone,6,4,97.8,313
+"dorzolamide,timolol maleate",6,1,43.05,313
+efanesoctocog alfa,6,1,7350.75,313
+efmoroctocog alfa,6,1,3698.9500000000003,313
+enalapril maleate,6,1,26.674999999999997,313
+flupentixol,6,2,29.275,313
+fosfomycin,6,2,371.4,313
+granisetron,6,3,138.075,313
+hepatitis b virus hbsag surface antigen,6,1,54.7,313
+human immunoglobulin proteins,6,1,3362.1000000000004,313
+hydromorphone hydrochloride,6,2,144.75,313
+iron polymaltose,6,2,13.625,313
+iron sucrose,6,1,72.35,313
+ketoconazole,6,1,18.825000000000003,313
+labetalol hydrochloride,6,2,44.9,313
+lactulose,6,1,16.125,313
+lenvatinib,6,1,4817.75,313
+menotrophin,6,1,407.475,313
+methylcobalamin,6,2,23.4,313
+methylprednisolone sodium succinate,6,1,39.9,313
+nebivolol hydrochloride,6,1,25.95,313
+nintedanib,6,1,5430.475,313
+nitroglycerin,6,1,60.45,313
+oseltamivir,6,1,50.375,313
+oxcarbazepine,6,2,60.4,313
+"piperacillin,tazobactam",6,1,76.15,313
+plerixafor,6,1,15112.2,313
+potassium chloride,6,2,3.075,313
+prednisolone sodium phosphate,6,1,33.4,313
+"pseudoephedrine hydrochloride,triprolidine",6,2,3.85,313
+sevelamer carbonate,6,2,516.5,313
+"sitagliptin phosphate monohydrate,metformin hydrochloride",6,1,88.0,313
+"sodium chloride, calcium chloride dihydrate, magnesium chloride hexahydrate, sodium bicarbonate, sodium slactate solution, glucose anhydrous or glucose monohydrate",6,1,224.39999999999998,313
+"sodium chloride,potassium chloride, calcium chloride,sodium lactate",6,2,8.95,313
+tamsulosin hydrochloride,6,2,67.375,313
+temozolomide,6,1,228.875,313
+tenofovir disoproxil,6,1,744.45,313
+thiotepa,6,1,2841.5,313
+tizanidine,6,1,21.475,313
+tobramycin,6,3,19.35,313
+tretinoin,6,1,18.125,313
+triptorelin,6,1,492.7,313
+albutrepenonacog alfa (recombinant fusion protein linking coagulation factor ix with albumin),5,1,9294.3,380
+alfuzosin,5,1,84.35,380
+"aluminum hydroxide,magnesium hydroxide",5,2,7.15,380
+amphotericin b,5,1,2787.55,380
+anastrozole,5,1,128.25,380
+avanafil,5,1,55.05,380
+bemiparin sodium,5,1,56.65,380
+bilastine,5,2,22.3,380
+bosutinib,5,1,7224.3,380
+busulfan,5,3,6377.8,380
+calcium gluconate,5,1,6.0,380
+chlorothiazide,5,2,53.3,380
+"cilastatin,imipenem",5,1,313.35,380
+colistimethate sodium,5,1,321.949,380
+denecimig,5,1,31312.15,380
+denosumab,5,1,779.2,380
+desmopressin acetate,5,2,111.4,380
+desvenlafaxine succinate,5,1,75.4,380
+diazepam,5,2,23.85,380
+dopamine hydrochloride,5,1,687.1,380
+eftrenonacog alfa,5,1,6196.2,380
+enzalutamide,5,2,8933.45,380
+"fusidic acid,betamethasone valerate",5,1,11.65,380
+"hydrochlorothiazide,bisoprolol fumarate",5,1,22.7,380
+hydrocortisone sodium succinate,5,2,16.8,380
+hydroxycarbamide,5,2,63.35,380
+hydroxychloroquine sulfate,5,1,76.05,380
+insulin aspart,5,1,141.75,380
+ketotifen,5,2,22.7,380
+lasmiditan,5,1,172.4,380
+leflunomide,5,1,144.55,380
+liraglutide,5,1,317.6,380
+lonoctocog alfa,5,1,2515.0,380
+"metformin hydrochloride,dapagliflozin",5,1,122.45,380
+"metformin hydrochloride,pioglitazone",5,1,93.05,380
+methoxy polyethylene glycol-epoetin beta,5,1,800.0,380
+norepinephrine bitartrate,5,1,77.67,380
+ofloxacin,5,2,13.5,380
+olopatadine,5,1,22.05,380
+orforglipron,5,1,871.2,380
+oxymetazoline,5,1,5.35,380
+palonosetron hydrochloride,5,1,139.0,380
+"paracetamol,pseudoephedrine hydrochloride,chlorpheniramine maleate",5,2,14.4,380
+racecadotril,5,2,29.95,380
+ramipril,5,1,24.75,380
+risankizumab,5,1,12733.3,380
+ropivacaine,5,1,170.3,380
+roxadustat,5,1,1015.3,380
+"salicylic acid,betamethasone dipropionate",5,2,14.4,380
+"salicylic acid,mometasone furoate",5,1,25.55,380
+sevoflurane,5,1,477.55,380
+sirolimus,5,2,1157.1,380
+"sodium chloride,potassium chloride, calcium chloride",5,1,9.0,380
+"sodium chloride,potassium chloride, calcium chloride,magnesium chloride,sodium acetate,sodium citrate",5,1,51.3,380
+sorafenib,5,1,6702.35,380
+spironolactone,5,2,159.9,380
+"sulfamethoxazole,trimethoprim",5,2,8.9,380
+teriparatide,5,1,1003.05,380
+"thiamine,pyridoxine,cyanocobalamin",5,2,13.45,380
+tiotropium,5,1,123.2,380
+triamcinolone acetonide,5,3,46.55,380
+"tribenoside,lidocaine hydrochloride",5,2,15.0,380
+ursodeoxycholic acid,5,3,132.95,380
+abemaciclib,4,1,3117.8,443
+acetylcysteine,4,3,16.825000000000003,443
+alfacalcidol,4,1,81.825,443
+"alogliptin,pioglitazone",4,1,148.675,443
+amiodarone,4,2,25.325000000000003,443
+amitriptyline hydrochloride,4,1,32.625,443
+"amlodipine besilate,valsartan",4,1,49.525000000000006,443
+"ampicillin,sulbactam",4,1,12.75,443
+anidulafungin,4,1,512.75,443
+asfotase alfa,4,1,104996.475,443
+atosiban,4,1,168.975,443
+atracurium besilate,4,1,36.925,443
+azilsartan medoxomil,4,1,81.525,443
+"azilsartan medoxomil,chlorthalidone",4,1,71.45,443
+bempedoic acid,4,1,300.3,443
+benzydamine hydrochloride,4,2,22.825,443
+"betamethasone dipropionate,calcipotriol",4,1,159.52499999999998,443
+brigatinib,4,1,8905.725,443
+cabazitaxel,4,1,12184.375,443
+calcium polystyrene sulfonate,4,1,187.475,443
+cariprazine hydrochloride,4,1,225.7,443
+cefepime hydrochloride,4,1,45.724999999999994,443
+cisplatin,4,1,66.05,443
+clofarabine,4,1,3911.3999999999996,443
+clostridium botulinum neurotoxin a complex,4,1,511.29999999999995,443
+clozapine,4,1,77.0,443
+cyclopentolate,4,1,54.525,443
+dacarbazine,4,1,375.6,443
+deferiprone,4,2,471.07500000000005,443
+dexamethasone,4,3,176.60000000000002,443
+dexamethasone sodium phosphate,4,2,55.075,443
+dextromethorphan,4,1,10.149999999999999,443
+"dextrose,sodium chloride,sodium citrate,potassium chloride",4,1,9.675,443
+"dextrose,sodium chloride,sodium gluconate,sodium acetate,potassium chloride,magnesium chloride",4,1,18.0,443
+digoxin,4,3,14.65,443
+diluted isosorbide dinitrate,4,1,85.525,443
+doxazosin,4,1,30.75,443
+doxorubicin hydrochloride,4,1,834.05,443
+dydrogesterone,4,1,35.724999999999994,443
+emicizumab,4,1,24532.15,443
+"entacapone,levodopa,carbidopa",4,1,107.1,443
+esomeprazole sodium,4,1,44.65,443
+exemestane,4,1,97.05000000000001,443
+"ezetimibe,rosuvastatin",4,1,211.025,443
+"ezetimibe,simvastatin",4,1,144.975,443
+ferrous sulfate,4,2,14.1,443
+fluorouracil,4,1,68.925,443
+gemifloxacin mesilate,4,1,66.7,443
+"glucose with calcium solution, amino acid with electrolytes solution and lipid emulsion,glucose with calcium solution,amino acid with electrolytes solution,lipid emulsion",4,1,657.4,443
+guanfacine hydrochloride,4,1,312.175,443
+hepatitis a virus,4,1,81.725,443
+human c1-esterase inhibitor,4,1,7771.4,443
+"human fibrinogen,human thrombin",4,1,1120.5,443
+human hepatitis b immunoglobulin,4,1,780.0250000000001,443
+hydrochlorothiazide,4,1,135.1,443
+hydrocortisone,4,2,23.725,443
+"insulin glargine,lixisenatide",4,1,643.9,443
+interferon beta-1a,4,1,3543.075,443
+iobitridol,4,1,139.2,443
+ipratropium bromide,4,1,34.400000000000006,443
+ivabradine,4,1,108.35,443
+lansoprazole,4,1,30.825,443
+lercanidipine hydrochloride,4,1,74.6,443
+letermovir,4,2,11072.75,443
+leuprorelin,4,1,610.3499999999999,443
+levonorgestrel,4,2,38.55,443
+lidocaine,4,2,183.25,443
+"lidocaine,prilocaine",4,1,47.0,443
+linaclotide,4,1,173.475,443
+lisdexamfetamine dimesilate,4,1,351.65,443
+lomitapide mesylate,4,1,91051.3,443
+loxoprofen,4,2,36.225,443
+"magnesium acetate tetrahydrate,potassium acetate,sodium chloride",4,1,17.0,443
+mavacamten,4,1,6100.75,443
+mebendazole,4,2,8.15,443
+mefenamic acid,4,3,7.8999999999999995,443
+"metformin hydrochloride,alogliptin",4,1,113.67500000000001,443
+"metformin hydrochloride,empagliflozin",4,1,168.65,443
+"metformin hydrochloride,sitagliptin hydrochloride",4,1,93.275,443
+"metformin hydrochloride,vildagliptin",4,1,99.55000000000001,443
+metoprolol tartrate,4,1,20.1245,443
+minocycline,4,1,90.225,443
+moroctocog alfa,4,1,1247.225,443
+"nystatin,neomycin sulfate,triamcinolone acetonide,gramicidin",4,1,9.25,443
+odevixibat,4,1,39421.6,443
+olaparib,4,1,9785.675,443
+ozanimod,4,1,2117.3,443
+"paracetamol,caffeine citrate",4,1,7.2,443
+paroxetine,4,1,42.849999999999994,443
+pazopanib hydrochloride,4,1,1992.375,443
+potassium citrate,4,1,125.4,443
+"ramipril,amlodipine besilate",4,1,45.2,443
+ranibizumab,4,1,1912.5500000000002,443
+remifentanil hydrochloride,4,1,194.075,443
+rifampicin,4,1,50.05,443
+rocuronium bromide,4,1,182.8,443
+rotigotine,4,1,257.5,443
+"sacubitril, valsartan",4,1,172.1,443
+sarilumab,4,1,3380.65,443
+"sodium alginate,sodium bicarbonate,calcium carbonate",4,2,13.875,443
+"sodium chloride,potassium chloride, calcium chloride,magnesium chloride,sodium acetate",4,1,45.55,443
+sotatercept,4,1,58934.7,443
+sterilized apyrogenic distilled water,4,1,12.675,443
+tazarotene,4,1,117.475,443
+teicoplanin,4,1,65.025,443
+terbinafine,4,3,19.75,443
+testosterone,4,2,115.7,443
+tolterodine tartrate,4,2,62.2,443
+"trifluridine,tipiracil",4,1,2144.3,443
+tropicamide,4,1,43.675,443
+valaciclovir,4,1,203.075,443
+"valsartan,amlodipine besilate,hydrochlorothiazide",4,1,50.25,443
+vonoprazan,4,1,93.425,443
+abrocitinib,3,1,3901.2,556
+allopurinol,3,1,16.45,556
+alogliptin,3,1,105.85,556
+alpelisib,3,1,15845.7,556
+alpha tocoferil,3,1,36.3,556
+alprazolam,3,1,13.7,556
+alprostadil,3,2,300.0,556
+"amlodipine besilate, atorvastatin calcium",3,1,105.7,556
+ampicillin,3,1,9.05,556
+andusomeran,3,1,3827.85,556
+"antihemophilic factor, pegylated (mw 20000) human sequence recombinant",3,1,1021.8,556
+apalutamide,3,1,10522.15,556
+apomorphine,3,1,876.95,556
+arsenic trioxide,3,1,8711.9,556
+ataluren,3,1,23789.2,556
+azelastine,3,2,37.25,556
+"azelastine hydrochloride,fluticasone propionate",3,1,54.05,556
+beclomethasone dipropionate,3,1,44.95,556
+belimumab,3,1,1509.1,556
+benzoyl peroxide,3,1,12.45,556
+betamethasone dipropionate,3,1,17.85,556
+bicalutamide,3,1,218.2,556
+bisacodyl,3,2,7.55,556
+bivalirudin,3,1,10539.75,556
+"budesonide,formterol",3,1,158.0,556
+burosumab,3,1,26513.9,556
+butenafine,3,2,38.9,556
+"carbidopa, levodopa",3,1,157.25,556
+carmustine,3,1,3058.6,556
+cefpodoxime,3,1,68.95,556
+cefprozil,3,1,32.25,556
+chlorpromazine hydrochloride,3,2,72.75,556
+"chlorzoxazone,paracetamol",3,1,27.75,556
+clonazepam,3,2,15.3,556
+cysteamine,3,2,1216.0,556
+dacomitinib,3,1,8836.2,556
+desogestrel,3,1,14.5,556
+dexpanthenol,3,1,7.25,556
+"dextrose,calcium chloride,acetic acid,potassium chloride,magnesium chloride,sodium chloride",3,1,41.0,556
+diacerein,3,1,111.9,556
+dimethindene maleate,3,2,12.3,556
+"diosmin,hesperidin",3,1,31.3,556
+diphenhydramine hydrochloride,3,1,7.25,556
+dobutamine,3,1,157.75,556
+dorzolamide,3,1,37.0,556
+"drospinenone,ethinylestradiol",3,1,20.2,556
+dupilumab,3,1,5408.6,556
+dutasteride,3,1,90.9,556
+edoxaban tosilate,3,1,240.0,556
+epirubicin hydrochloride,3,1,86.8,556
+epoetin beta,3,1,1205.15,556
+eptacog beta,3,1,6348.5,556
+esketamine hydrochloride,3,1,1905.75,556
+esmolol,3,2,125.75,556
+etelcalcetide,3,1,644.45,556
+"ethinylestradiol,gestodene",3,1,17.65,556
+etoposide,3,1,42.6,556
+fludarabine phosphate,3,2,500.8,556
+flumazenil,3,1,219.9,556
+"fluticasone propionate,formoterol fumarate",3,1,130.0,556
+folinic acid,3,2,82.15,556
+fondaparinux sodium,3,1,218.85,556
+gadodiamide,3,1,510.45,556
+gatifloxacin,3,1,32.3,556
+glatiramer,3,1,4110.4,556
+guaifenesin,3,2,7.8,556
+human fibrinogen,3,1,2034.2,556
+human immunoglobulin g,3,1,2241.4,556
+hydrocortisone acetate,3,1,8.2,556
+hydrocortisone butyrate,3,1,11.4,556
+ifosfamide,3,1,169.7,556
+"influenza virus h1n1, influenza virus h3n2, influenza virus b",3,1,245.45,556
+insulin icodec,3,1,324.0,556
+itraconazole,3,2,112.45,556
+ketamine,3,1,104.2,556
+lactated ringer(s),3,2,6.9,556
+lanreotide acetate,3,1,4190.7,556
+larotrectinib,3,2,18268.0,556
+lenacapavir,3,2,15252.0,556
+"lidocaine hydrochloride,tetracaine hydrochloride",3,1,76.9,556
+loperamide,3,2,12.4,556
+"losartan potassium,hydrochlorothiazide",3,1,48.2,556
+loteprednol etabonate,3,1,44.0,556
+melphalan,3,2,291.55,556
+"menthol,benzocaine",3,1,26.25,556
+mepolizumab,3,1,4709.35,556
+mesna,3,2,198.6,556
+"metformin hydrochloride,glibenclamide",3,1,14.85,556
+"metformin hydrochloride,glimepiride",3,1,26.0,556
+"metformin hydrochloride,sitagliptin phosphate monohydrate",3,1,97.7,556
+midodrine hydrochloride,3,1,16.55,556
+milrinone,3,1,747.15,556
+mirikizumab,3,1,4805.8,556
+momelotinib,3,1,22816.7,556
+"mometasone furoate,(indacaterol (as acetate",3,1,108.1,556
+natalizumab,3,1,5558.25,556
+nelarabine,3,1,6290.8,556
+nizatidine,3,1,52.4,556
+nonacog beta pegol,3,1,6105.7,556
+"olopatadine,mometasone furoate",3,1,36.75,556
+omega-3-acid ethyl esters,3,1,174.8,556
+omfiloctocog alfa,3,2,855.85,556
+orlistat,3,1,129.05,556
+osilodrostat,3,1,28499.35,556
+"paracetamol,caffeine citrate,codeine",3,2,13.15,556
+"paracetamol,pseudoephedrine hydrochloride,triprolidine",3,2,10.8,556
+parecoxib,3,1,124.55,556
+pasireotide pamoate,3,1,13792.4,556
+patiromer sorbitex calcium,3,1,1126.6,556
+pegvisomant,3,1,11087.45,556
+pegylated b domain deleted recombinant human coagulation factor viii damoctocog alfa pegol,3,1,2453.15,556
+pembrolizumab,3,1,29359.8,556
+pemigatinib,3,1,32542.4,556
+permethrin,3,1,42.9,556
+pirtobrutinib,3,1,20872.5,556
+pizotifen,3,2,18.0,556
+plasma protein-l with human albumin,3,1,187.05,556
+promethazine,3,2,4.45,556
+"pseudoephedrine hydrochloride,loratadine",3,2,18.85,556
+"pyridoxine,thiamine,cyanocobalamin",3,1,19.8,556
+"ramipril,amlodipine besilate,hydrochlorothiazide",3,1,55.15,556
+ranolazine,3,1,114.2,556
+rasagiline,3,1,308.25,556
+recombinat dna coagulating factor vlla eptacog alfa activated,3,1,6348.5,556
+repaglinide,3,1,29.15,556
+ribociclib,3,1,8320.25,556
+rizatriptan benzoate,3,1,80.65,556
+"rsv subgroup a stabilised prefusion f,rsv subgroup b stabilised prefusion f",3,1,8161.8,556
+rufinamide,3,2,866.0,556
+"salmeterol,fluticasone propionate",3,1,107.5,556
+sapropterin,3,2,13068.0,556
+secukinumab,3,1,2114.55,556
+siponimod,3,1,7438.45,556
+"sodium alginate,calcium carbonate,sodium bicarbonate",3,2,21.1,556
+"sodium alginate,potassium bicarbonate",3,1,26.7,556
+"sodium chloride,acetic acid, calcium chloride,potassium chloride,magnesium chloride",3,1,41.0,556
+"sodium chloride,potassium chloride,tri sodium citrate,dextrose",3,1,9.3,556
+sofosbuvir,3,1,5600.0,556
+somapacitan,3,1,2048.0,556
+"soya oil,triglycerides medium chain,olive oil,fish oil",3,1,494.85,556
+sufentanil,3,1,66.7,556
+sulpiride,3,2,22.5,556
+tamoxifen,3,1,37.8,556
+"telmisartan,hydrochlorothiazide",3,1,54.25,556
+terlipressin diacetate pentahydrate,3,1,516.3,556
+tetanus toxoid,3,1,131.9,556
+theophylline,3,2,15.55,556
+tirofiban,3,1,753.2,556
+"tobramycin,dexamethasone",3,1,20.4,556
+torasemide,3,2,84.0,556
+torsemide,3,1,27.85,556
+turoctocog alfa,3,1,1147.95,556
+upadacitinib,3,1,5655.5,556
+"valsartan,sacubitril",3,1,200.8,556
+vasopressin,3,1,1489.05,556
+vedolizumab,3,1,4079.15,556
+vericiguat,3,1,220.8,556
+vilazodone,3,1,69.2,556
+vortioxetine,3,1,163.25,556
+vosoritide,3,1,32624.6,556
+water for injections,3,1,4.75,556
+zolpidem,3,1,27.7,556
+"a h3n2 avictoria 800 2024 cvr 289,a h1n1 a georgia 12 2022 cvr 167,b victoria lineage b singapore wuh4618 2021",2,1,184.8,718
+abatacept,2,1,2812.825,718
+acalabrutinib,2,2,20672.975,718
+acarbose,2,1,17.45,718
+aceclofenac,2,1,21.625,718
+acetazolamide,2,2,96.45,718
+acitretin,2,1,146.39999999999998,718
+"adapalene,benzoyl peroxide",2,1,51.175,718
+"adapalene,hydrous benzoyl peroxide",2,1,102.32499999999999,718
+agalsidase beta,2,1,8519.8,718
+"alanine, arginine, aspartic acid, cysteine, glutamic acid, glycine, histidine, isoleucine, leucine, lysine monohydrate, methionine, ornithine hydrochloride, phenylalanine, proline, serine, taurine, threonine, tryptophan, tyrosine, va",2,1,585.0,718
+allergen extract,2,1,808.6,718
+"amino acids, sodium hyaluronate",2,1,42.0,718
+amivantamab,2,1,13003.175000000001,718
+"amlodipine besilate,atorvastatin calcium",2,1,101.95,718
+amorolfine,2,2,72.25,718
+"amoxicillin trihydrate,clavulanic acid",2,1,200.35000000000002,718
+"amoxicillin trihydrate,potassium clavulanate",2,2,37.0,718
+"antazoline hydrochloride,tetrahydrozoline",2,2,8.8,718
+anti-d [rho] immunoglobulin,2,1,185.65,718
+aprepitant,2,1,79.05,718
+argatroban,2,1,1611.6,718
+"articaine hydrochloride,adrenaline tartrate",2,1,99.4,718
+asciminib,2,1,19832.7,718
+atogepant,2,1,1343.05,718
+"atovaquone,progunail",2,1,58.15,718
+axitinib,2,1,9188.275,718
+azathioprine,2,1,99.35,718
+baricitinib,2,1,3776.55,718
+baxdrostat,2,1,707.05,718
+benzocaine,2,1,11.75,718
+"benzoyl peroxide,adapalene",2,1,58.55,718
+"benzydamine hydrochloride,cetylpyridinium chloride",2,1,30.35,718
+"bisoprolol fumarate,amlodipine besilate",2,1,48.325,718
+bleomycin sulfate,2,1,65.475,718
+bnt162b2 omicron xbb.1.5 mrna,2,1,3552.5,718
+bupropion hydrochloride,2,1,93.025,718
+calcipotriene,2,1,40.45,718
+calcitonin salmon,2,1,98.42500000000001,718
+calcium carbonate,2,1,27.5,718
+calfactant,2,1,1309.225,718
+canagliflozin,2,1,159.0,718
+"candesartan cilexetil,amlodipine besilate",2,1,61.725,718
+"candesartan cilexetil,amlodipine besilate,hydrochlorothiazide",2,1,50.25,718
+capivasertib,2,1,28902.65,718
+capsaicin,2,1,1675.5,718
+carbetocin,2,1,283.95,718
+carmellose,2,1,15.8,718
+"ceftazidime,avibactam",2,1,3743.425,718
+"ceftriaxone, lidocaine",2,1,27.475,718
+cetuximab,2,1,3267.0,718
+chloramphenicol,2,2,10.7,718
+chloroquine phosphate,2,2,7.0,718
+cholic acid,2,1,28170.1,718
+cidofovir,2,1,26320.65,718
+cilostazol,2,1,60.175000000000004,718
+"citric acid, sodium bicarbonate, tartaric acid",2,1,16.125,718
+"clavulanic acid,amoxicillin",2,2,58.825,718
+"clioquinol,betamethasone valerate",2,1,13.1,718
+clobazam,2,1,114.35,718
+clomifene,2,1,20.3,718
+clomipramine hydrochloride,2,1,19.65,718
+clostridium botulinum neurotoxin a,2,1,485.92499999999995,718
+clostridium botulinum type a toxin-haemagglutinin complex,2,1,669.275,718
+cloxacillin,2,1,59.05,718
+colecalciferol (vitamin d3),2,1,18.775,718
+crizotinib,2,1,14478.75,718
+crotamiton,2,1,9.35,718
+cyclophosphamide,2,1,35.0,718
+danicopan,2,1,23269.25,718
+"dapagliflozin, metformin hydrochloride",2,1,108.15,718
+dapsone,2,1,398.57500000000005,718
+daratumumab,2,1,4541.55,718
+darifenacin hydrobromide,2,1,133.3,718
+decitabine,2,1,4022.85,718
+deferoxamine,2,1,108.17500000000001,718
+deflazacort,2,1,19.95,718
+degarelix,2,1,851.625,718
+delafloxacin meglumine,2,2,3570.9,718
+"desloratadine, pseudoephedrine sulfate",2,1,29.8,718
+"desogestrel,ethinylestradiol",2,1,14.9,718
+dexketoprofen tromethamine,2,1,61.225,718
+"dextran 40,dextrose",2,1,26.075000000000003,718
+"dextran 40,sodium chloride",2,1,26.025,718
+"dextran 70,dextrose",2,1,25.05,718
+"dextrose,sodium chloride,potassium chloride, calcium chloride",2,1,7.45,718
+diclofenac epolamine,2,2,44.675,718
+dienogest,2,1,168.05,718
+difelikefalin,2,1,1219.2749999999999,718
+"diflucortolone valerate,isoconazole nitrate",2,1,12.25,718
+"diphtheria toxoid,tetanus toxoid,acellular pertussis",2,1,76.55,718
+docusate sodium,2,1,6.45,718
+dulaglutide,2,1,362.4,718
+durvalumab,2,1,7201.0,718
+eculizumab,2,1,11627.55,718
+elacestrant dihydrochloride,2,1,27563.325,718
+elranatamab,2,1,13510.8,718
+eluxadoline,2,1,238.35,718
+"empagliflozin,linagliptin",2,1,226.05,718
+"empagliflozin,linagliptin,metformin hydrochloride",2,1,230.3,718
+"emtricitabine,tenofovir alafenamide",2,1,1626.35,718
+encorafenib,2,1,3659.7250000000004,718
+enfortumab,2,1,3600.625,718
+entrectinib,2,1,12048.9,718
+epcoritamab,2,1,18134.649999999998,718
+ephedrine hydrochloride,2,1,161.025,718
+eplerenone,2,1,48.125,718
+erenumab,2,1,1343.05,718
+eribulin mesilate,2,1,1070.0500000000002,718
+ertapenem sodium,2,1,662.75,718
+"estradiol,dydrogesterone",2,1,31.125,718
+ethamsylate,2,2,35.875,718
+"etonogestrel,ethinylestradiol",2,1,37.975,718
+"ezetimibe, simvastatin",2,1,133.5,718
+factor ix,2,1,912.05,718
+factor viii inhibitor bypassing fraction,2,1,1645.3,718
+factor xiii,2,1,2572.8,718
+famciclovir,2,1,825.0,718
+faricimab,2,1,3720.75,718
+"fenofibrate,simvastatin",2,1,62.625,718
+"ferrous sulfate,folic acid",2,2,7.7,718
+finerenone,2,1,381.15,718
+fitusiran,2,1,318352.9,718
+"fluticasone furoate,vilanterol",2,1,142.55,718
+"follitropin alfa,lutropin alfa",2,1,759.7249999999999,718
+fomepizole,2,1,4711.425,718
+"formoterol fumarate,beclomethasone dipropionate",2,1,108.05000000000001,718
+foscarnet,2,1,821.3,718
+fostamatinib disodium hexahydrate,2,1,9347.375,718
+gadobutrol,2,1,726.0,718
+galcanezumab,2,1,2350.35,718
+ganciclovir,2,1,162.27499999999998,718
+gefitinib,2,1,4289.75,718
+glibenclamide,2,1,98.89999999999999,718
+glipizide,2,1,6.825,718
+glofitamab,2,1,9075.0,718
+glucagon,2,2,113.025,718
+glucosamine sulfate,2,2,77.175,718
+"glucosamine sulfate,ginkgo biloba",2,1,53.95,718
+"glucose,soya oil,triglycerides medium chain,olive oil,fish oil,alanine,arginine,glycine,histidine,isoleucine5,leucine,methionine,phenylalanine,proline,serine,taurine,threonine,tryptophan,tyrosine,valine, calcium chloride,magnesium sulfate,potassium chloride,sodium acetate,lysine,zinc sulphate,sodium glycerophosphate hydrated",2,1,162.425,718
+glycerol phenylbutyrate,2,1,1198.55,718
+glycine,2,1,21.675,718
+glycopyrronium bromide,2,2,241.85,718
+goserelin,2,2,799.875,718
+guselkumab,2,1,11574.5,718
+"heparin sodium,liquid extract from onion,allantoin",2,1,27.75,718
+human cytomegalovirus immunoglobulin (cmvig),2,1,2871.925,718
+"hyaluronic acid,ts-polysaccharide",2,1,29.85,718
+iberdomide hydrochloride,2,1,188306.25,718
+idarubicin hydrochloride,2,1,275.1,718
+idelalisib,2,1,17631.9,718
+iloprost,2,1,2378.15,718
+inavolisib,2,1,51046.875,718
+indometacin,2,2,7.725,718
+"influenza vaccine (intranasal, live attenuated) (laiv trivalent): influenza virus type a h1n1, influenza virus type a h3n2, influenza virus type b (victoria lineage)",2,1,576.3499999999999,718
+insulin degludec,2,1,359.95,718
+insulin isophane,2,1,53.55,718
+"insulin isophane,insulin human",2,2,80.875,718
+insulin lispro,2,1,125.55000000000001,718
+"insulin lispro,insulin protamine",2,1,161.3,718
+isatuximab,2,1,6305.875,718
+isavuconazonium sulfate,2,2,2253.55,718
+isoflurane,2,1,223.8,718
+isoniazid,2,1,26.950000000000003,718
+isoprenaline,2,1,177.89999999999998,718
+isosorbide dinitrate,2,1,23.075000000000003,718
+ixazomib citrate,2,1,13608.349999999999,718
+ketoprofen,2,2,22.225,718
+lamivudine,2,1,293.575,718
+lapatinib,2,1,3262.3,718
+latanoprost,2,1,40.525,718
+lazertinib,2,1,28729.5,718
+lecanemab,2,1,2023.35,718
+lemborexant,2,1,219.6,718
+levocabastine,2,2,34.8,718
+"levodopa,carbidopa",2,2,2803.025,718
+"lidocaine hydrochloride,epinephrine",2,2,150.85,718
+"lidocaine hydrochloride,prilocaine",2,1,60.5,718
+"lisinopril,amlodipine besilate",2,1,46.575,718
+lomefloxacin,2,1,47.625,718
+"lopinavir,ritonavir",2,1,1014.875,718
+lorlatinib,2,1,12844.724999999999,718
+luspatercept,2,1,14607.6,718
+magaldrate,2,2,4.7,718
+maraviroc,2,1,2861.7,718
+medroxyprogesterone acetate,2,2,38.599999999999994,718
+mepivacaine hydrochloride,2,2,85.15,718
+mercaptopurine,2,2,926.225,718
+"metformin hydrochloride , sitagliptin",2,1,90.9,718
+"metformin hydrochloride, linagliptin",2,1,127.1,718
+methadone,2,1,469.75,718
+methylthioninium chloride,2,1,331.65,718
+"miconazole nitrate,hydrocortisone",2,1,14.424999999999999,718
+mirabegron,2,1,163.425,718
+moclobemide,2,1,54.325,718
+morphine hydrochloride,2,1,197.5,718
+mrna-1345 rna,2,1,4772.625,718
+"neomycin sulfate,bacitracin",2,1,15.425,718
+"neomycin sulfate,betamethasone valerate",2,1,10.7,718
+nicorandil,2,1,44.9,718
+nimodipine,2,2,43.825,718
+"niraparib,abiraterone",2,1,23027.2,718
+nirsevimab,2,1,3781.75,718
+nitazoxanide,2,1,25.125,718
+nivolumab,2,1,5924.05,718
+norethisterone,2,1,15.649999999999999,718
+norfloxacin,2,2,27.675,718
+"nystatin,neomycin sulfate,gramicidin,triamcinolone acetonide",2,1,22.1,718
+obeticholic acid,2,1,9837.8,718
+ocrelizumab,2,1,31472.100000000002,718
+"olive oil,soya oil,alanine,arginine,aspartic acid,glutamic acid,glycine,histidine,isoleucine5,leucine,lysine,methionine,phenylalanine,proline,serine,threonine,tryptophan,tyrosine,valine,glucose,sodium acetate,sodium glycerophosphate hydrated,potassium chloride,magnesium chloride, calcium chloride",2,1,706.85,718
+"olive oil,soya oil,alanine,arginine,aspartic acid,glutamic acid,glycine,histidine,isoleucine5,leucine,methionine,phenylalanine,proline,serine,threonine,tryptophan,tyrosine,valine,sodium acetate,sodium glycerophosphate hydrated,potassium chloride,magnesium chloride, calcium chloride,lysine,glucose",2,1,873.0999999999999,718
+ornithine,2,2,57.4,718
+osimertinib mesilate,2,1,28409.9,718
+"oxycodone hydrochloride,naloxone hydrochloride",2,1,321.25,718
+"paracetamol,chlorzoxazone",2,1,40.9,718
+"paracetamol,diphenhydramine hydrochloride",2,1,10.45,718
+"paracetamol,pseudoephedrine hydrochloride",2,1,12.25,718
+"paracetamol,sodium bicarbonate",2,1,6.675000000000001,718
+pegcetacoplan,2,1,73327.25,718
+peginterferon beta-1a,2,1,3455.7,718
+pentoxifylline,2,1,63.3,718
+"perindopril arginine,bisoprolol fumarate",2,1,47.775,718
+"perindopril arginine,indapamide",2,1,42.925,718
+"perindopril,indapamide",2,1,44.025000000000006,718
+"pertuzumab,trastuzumab",2,1,20725.824999999997,718
+pethidine,2,1,30.1,718
+phenoxymethylpenicillin,2,1,24.325,718
+phenytoin sodium,2,2,68.05,718
+"phosphate sodium monobasic,sodium phosphate",2,1,15.775,718
+phytomenadione,2,1,16.15,718
+pilocarpine hydrochloride,2,1,5.9,718
+"pioglitazone,glimepiride",2,1,117.225,718
+"piperacillin, tazobactam",2,1,431.04999999999995,718
+piroxicam,2,2,25.85,718
+pitolisant,2,1,993.35,718
+polatuzumab vedotin,2,1,27398.824999999997,718
+"polyethylene glycol,propylene glycol",2,1,39.425,718
+"polysaccharide for serotypes 1, 3, 4, 5, 6a, 7f, 8, 9v, 10, 11a, 12f, 14, 15b, 18c, 19a, 19f, 22f, 23f, 33f,polysaccharide for serotypes 6b,crm197 protein",2,1,1487.475,718
+ponatinib,2,1,13689.1,718
+ponesimod,2,1,2443.075,718
+potassium citrate and potassium hydrogen carbonate,2,1,1179.4,718
+pralidoxime chloride,2,1,1638.25,718
+prasugrel,2,1,157.5,718
+propiverine hydrochloride,2,2,93.225,718
+"pseudoephedrine hydrochloride,dextromethorphan,triprolidine",2,1,6.199999999999999,718
+pyridostigmine,2,1,16.125,718
+raltegravir potassium,2,1,1623.875,718
+rasburicase,2,1,1306.325,718
+ravulizumab,2,1,47694.924999999996,718
+revefenacin,2,1,189.0,718
+"rifampicin,isoniazid",2,1,50.05,718
+rifaximin,2,1,595.25,718
+risdiplam,2,2,64946.049999999996,718
+rozanolixizumab,2,1,35132.45,718
+rupatadine fumarate,2,2,27.525,718
+saccharomyces boulardii,2,2,43.075,718
+safinamide,2,1,352.7,718
+salicylic acid,2,1,14.8,718
+"salicylic acid,lactic acid",2,1,21.0,718
+saxagliptin,2,1,98.25,718
+secnidazole,2,1,12.35,718
+selinexor,2,1,23161.375,718
+selpercatinib,2,1,17652.875,718
+selumetinib,2,1,34637.0,718
+"simvastatin,ezetimibe",2,1,127.575,718
+sodium bicarbonate,2,2,23.1,718
+"sodium bicarbonate,tartaric acid,citric acid anhydrous",2,1,6.45,718
+"sodium bicarbonate,tartaric acid,citric acid anhydrous,tri sodium citrate",2,1,19.5,718
+"sodium chloride, calcium chloride,magnesium chloride,sodium acetate",2,1,45.55,718
+"sodium chloride,dextrose,calcium chloride,acetic acid,potassium chloride,magnesium chloride",2,1,33.125,718
+"sodium chloride,potassium chloride,magnesium chloride hexahydrate,sodium acetate trihydrate,sodium gluconate",2,1,143.925,718
+"sodium chloride,potassium chloride,magnesium chloride hexahydrate,sodium acetate trihydrate,sodium gluconate,glucose monohydrate",2,1,143.925,718
+"sodium chloride,sodium lactate,potassium chloride,calcium chloride",2,1,10.6,718
+"sodium citrate,diphenhydramine hydrochloride",2,1,5.15,718
+sodium glycerophosphate hydrated,2,1,287.17499999999995,718
+sodium lactate,2,1,7.275,718
+sodium valproate,2,2,103.55,718
+sodium zirconium cyclosilicate,2,1,1279.125,718
+somatrogon,2,1,1391.225,718
+"tadalafil,macitentan",2,1,8812.05,718
+tafluprost,2,1,58.575,718
+talazoparib tosylate,2,1,11621.25,718
+talquetamab,2,1,13124.25,718
+tarlatamab,2,1,32057.399999999998,718
+teclistamab,2,1,13646.275,718
+telavancin hydrochloride,2,1,2811.5499999999997,718
+"tenofovir disoproxil,emtricitabine",2,1,1415.2,718
+tenoxicam,2,1,38.7,718
+terbutaline,2,1,7.975,718
+tezepelumab,2,1,5804.95,718
+thiopental sodium,2,1,110.45,718
+thrombin alfa,2,1,886.875,718
+tibolone,2,1,68.55,718
+"timolol maleate,brimonidine tartrate",2,1,35.225,718
+tinidazole,2,1,20.9,718
+trabectedin,2,1,8057.65,718
+trastuzumab emtansine,2,1,7118.825,718
+travoprost,2,1,44.675,718
+trazodone,2,1,99.85,718
+tremelimumab,2,1,43532.025,718
+trientine dihydrochloride,2,1,8056.225,718
+"trivalent influenza vaccine (split virion, inactivated)",2,1,213.4,718
+tucatinib,2,1,18619.65,718
+turoctocog alfa pegol,2,1,2031.425,718
+"tyrosine,serine,glutamic acid,acetylcysteine,aspartic acid,proline,alanine,histidine,valine,tryptophan,threonine,phenylalanine,methionine,lysine,leucine,isoleucine5,arginine,glycine",2,1,71.1,718
+"tyrosine,serine,proline,glutamic acid,aspartic acid,glycine,alanine,arginine,tryptophan,threonine,phenylalanine,methionine,lysine,leucine,isoleucine5,valine,histidine",2,1,63.300000000000004,718
+ublituximab,2,1,18621.1,718
+ulipristal acetate,2,1,51.15,718
+urofollitropin,2,1,233.575,718
+vandetanib,2,1,13101.2,718
+venetoclax,2,1,18857.575,718
+"vildagliptin,metformin hydrochloride",2,1,82.475,718
+vincristine,2,1,202.125,718
+vorasidenib,2,1,85758.75,718
+zidovudine,2,2,301.20000000000005,718
+zuclopenthixol acetate,2,1,12.075000000000001,718
+zuclopenthixol decanoate,2,1,200.075,718
+"",1,1,172.15,1036
+"a brisbane 02 2018 h1n1, a kansas 14 2017 h3n2, b colorado 06 2017, b phuket 3073 2013",1,1,543.45,1036
+"a/brisbane/02/2018 (h1n1),a/kansas/14/2017 (h3n2),b/colorado/06/2017,b/phuket/3073/2013",1,1,54.35,1036
+abacavir,1,1,944.75,1036
+"abacavir,lamivudine",1,1,1448.8,1036
+abaloparatide,1,1,1564.15,1036
+acetate sodium,1,1,8.05,1036
+"acetylsalicylic acid,ascorbic acid",1,1,9.65,1036
+agalsidase alfa,1,1,7509.56,1036
+agomelatine,1,1,104.95,1036
+"alanine,triglycerides medium chain,soya oil,glucose,zinc sulphate,sodium acetate,potassium chloride,magnesium sulfate,sodium glycerophosphate hydrated, calcium chloride,valine,tyrosine,olive oil,tryptophan,taurine,serine,proline,phenylalanine,methionine,lysine,leucine,isoleucine5,histidine,glycine,arginine,threonine,fish oil",1,1,1967.3,1036
+alanyl glutamine,1,1,169.85,1036
+albendazole,1,1,12.2,1036
+alemtuzumab,1,1,32921.25,1036
+alendronate sodium,1,1,28.5,1036
+alendronic acid,1,1,43.65,1036
+alglucosidase alfa,1,1,2606.0,1036
+"allergen extract ""animal origin initial""",1,1,453.35,1036
+"allergen extract ""mites initial""",1,1,568.7,1036
+"allergen extract ""mites maintenance""",1,1,568.7,1036
+"allergen extract ""origin maintenance""",1,1,453.35,1036
+allergen extract - pollens initial,1,1,540.25,1036
+allergen extract -moulds initial,1,1,477.2,1036
+allergen extract -pollens maintenance,1,1,540.25,1036
+allergen extract -skin prick test (pollen),1,1,136.6,1036
+allergen extract- moulds maintenance,1,1,477.2,1036
+alteplase,1,1,5336.1,1036
+"aluminum hydroxide,magnesium hydroxide,oxethazaine",1,1,7.15,1036
+"aluminum hydroxide,magnesium hydroxide,simethicone",1,1,5.65,1036
+"alverine citrate,simeticone",1,1,35.6,1036
+amino acids,1,1,721.05,1036
+"amino acids, source unspecified",1,1,54.8,1036
+aminocaproic acid,1,1,3943.25,1036
+aminophylline,1,1,4.15,1036
+"amlodipine besilate,perindopril arginine,indapamide",1,1,150.4,1036
+"ammonium chloride,diphenhydramine hydrochloride",1,1,4.65,1036
+anakinra,1,1,996.3,1036
+"anhydrous dextrose,trisodium citrate anhydrous,potassium chloride,sodium chloride",1,1,24.2,1036
+anifrolumab,1,1,3653.0,1036
+"antazoline sulfate,naphazoline nitrate",1,1,9.7,1036
+"anthraquinone glycoside,salicylic acid",1,1,12.6,1036
+antivenom immunoglobulin (against scorpion venom),1,1,1283.75,1036
+"arginine,lysine,alanine,aspartic acid,cysteine,isoleucine5,glutamic acid,threonine,glycine,glucose,leucine,sodium glycerophosphate hydrated,calcium chloride dihydrate,serine,taurine,histidine,tryptophan,tyrosine,sodium chloride,ornithine,phenylalanine,methionine,valine,refined olive oil (~80%) + refined soya oil (~20%),potassium acetate,proline,magnesium acetate tetrahydrate",1,1,2439.9,1036
+"articaine,norepinephrine bitartrate",1,1,71.5,1036
+ascorbic acid,1,1,5.1,1036
+"ascorbic acid,calcium carbonate,colecalciferol,pyridoxine (vitamin b6)",1,1,9.15,1036
+"aspirin, paracetamol, caffeine",1,1,25.4,1036
+atazanavir,1,1,1771.15,1036
+"atenolol,chlorthalidone",1,1,28.95,1036
+atezolizumab,1,1,29065.25,1036
+"atovaquone,proguanil hydrochloride",1,1,44.25,1036
+atrasentan,1,1,30332.15,1036
+avalglucosidase alfa,1,1,5212.0,1036
+avelumab,1,1,4438.0,1036
+"avibactam sodium, ceftazidime pentahydrate",1,1,3176.25,1036
+azelaic acid,1,1,24.5,1036
+basiliximab,1,1,4922.75,1036
+"beclomethasone dipropionate,formoterol fumarate",1,1,109.1,1036
+"beclomethasone dipropionate,glycopyrronium bromide,formoterol fumarate",1,1,236.8,1036
+belumosudil mesylate,1,1,34581.5,1036
+belzutifan,1,1,68062.5,1036
+benralizumab,1,1,9386.85,1036
+benzathine penicillin,1,1,6.45,1036
+benztropine,1,1,279.15,1036
+benzyl benzoate,1,1,18.0,1036
+beractant,1,1,1742.4,1036
+berotralstat,1,1,41530.5,1036
+"beta carotene,lutein,colecalciferol (vitamin d3),folic acid,calcium phosphate,phosphorus,biotin,iodine,ascorbic acid,magnesium oxide,sodium molybdate,chromium chloride hexahydrate,potassium chloride,vitamin k1,selenium sulfide,nicotinamide,dl-alpha tocoferil acetate,ferrous fumarate,pantothenic acid,zinc oxide,pyridoxine (vitamin b6),riboflavin (vitamin b2),thiamine,cyanocobalamin,manganese,copper",1,1,55.0,1036
+"beta carotene,lutein,colecalciferol (vitamin d3),folic acid,calcium phosphate,phosphorus,iodine,biotin,ascorbic acid,sodium molybdate,potassium chloride,chromium chloride hexahydrate,vitamin k1,selenium sulfide,nicotinamide,ferrous fumarate,pantothenic acid,zinc oxide,pyridoxine (vitamin b6),riboflavin (vitamin b2),thiamine,cyanocobalamin,manganese,copper",1,1,20.4,1036
+betaine,1,1,2064.3,1036
+"betamethasone dipropionate,betamethasone sodium phosphate",1,1,25.4,1036
+betamethasone sodium phosphate,1,1,6.7,1036
+betaxolol hydrochloride,1,1,11.4,1036
+bimatoprost,1,1,31.15,1036
+bimekizumab,1,1,8873.5,1036
+binimetinib,1,1,10134.65,1036
+biotin,1,1,61.05,1036
+"biotin,cyanocobalamin,folic acid,nicotinamide,pyridoxine (vitamin b6),riboflavin,sodium ascorbate,sodium pantothenate,thiamine",1,1,189.75,1036
+"bisacodyl,senna fruits,senna leaves,senna fruits dry extract",1,1,11.7,1036
+blinatumomab,1,1,9946.2,1036
+bnt162b2 omicron jn1 variant,1,1,3552.5,1036
+bovine lipid extract surfactant,1,1,918.6,1036
+brentuximab vedotin,1,1,13071.3,1036
+brinzolamide,1,1,29.2,1036
+brolucizumab,1,1,2478.75,1036
+bromfenac sodium,1,1,58.65,1036
+bromocriptine,1,1,54.1,1036
+"budesonide,formoterol fumarate",1,1,84.2,1036
+"budesonide,salbutamol",1,1,103.1,1036
+"bupropion hydrochloride,naltrexone hydrochloride",1,1,358.45,1036
+buspirone hydrochloride,1,1,223.1,1036
+butylscopolamine bromide,1,1,23.85,1036
+"caffeine, codeine phosphate, paracetamol",1,1,14.45,1036
+"caffeine, paracetamol",1,1,5.8,1036
+"caffeine,codeine,paracetamol",1,1,14.45,1036
+"caffeine,ergotamine tartrate,hydrochlorothiazide,eprosartan mesilate",1,1,16.3,1036
+calcitriol,1,1,136.2,1036
+"calcium carbonate,magnesium carbonate",1,1,11.15,1036
+"calcium chloride dihydrate /// glucose monohydrate/// magnesium chloride hexahydrate/// sodium chloride /// sodium s lactate solution 50percent - glucose,calcium",1,1,156.65,1036
+"calcium chloride dihydrate,refined olive oil (~80%) + refined soya oil (~20%),arginine,phenylalanine,isoleucine5,histidine,glucose,glutamic acid,leucine,cysteine,aspartic acid,tryptophan,alanine,ornithine,proline,glycine,serine,sodium chloride,taurine,sodium glycerophosphate hydrated,methionine,potassium acetate,magnesium acetate tetrahydrate,valine,threonine,lysine,tyrosine",1,1,4066.5,1036
+"calcium chloride,potassium chloride,sodium chloride,disodium phosphate,magnesium chloride",1,1,128.8,1036
+"calcium chloride,sodium chloride,lactic acid,sodium hydrogen carbonate,magnesium chloride",1,1,128.8,1036
+calcium glubionate,1,1,6.5,1036
+"calcium glubionate,calcium lactobionate",1,1,7.1,1036
+"calcium lactate gluconate,ascorbic acid,calcium carbonate",1,1,11.65,1036
+"calcium pantothenate,nicotinamide,thiamine,riboflavin (vitamin b2),pyridoxine (vitamin b6)",1,1,9.95,1036
+camizestrant,1,1,50118.7,1036
+"camphor,turpentine oil,menthol,eucalyptus oil",1,1,5.35,1036
+canakinumab,1,1,39501.35,1036
+caplacizumab,1,1,16906.902,1036
+"carbidopa,levodopa",1,1,41.9,1036
+carbimazole,1,1,20.75,1036
+"carbo ligni pulv,sulfur depuratum,extractum rhei,folium sennae",1,1,48.05,1036
+"carbo ligni pulv,sulfur depuratum,folium sennae,extractum rhei",1,1,23.45,1036
+carboprost tromethamine,1,1,382.95,1036
+carboxymethylcellulose sodium,1,1,17.2,1036
+catridecacog,1,1,83063.45,1036
+"cefepime,enmetazobactam",1,1,6190.6,1036
+cefradine,1,1,5.55,1036
+ceftaroline fosamil,1,1,1897.6,1036
+ceftobiprole medocaril sodium,1,1,1836.25,1036
+cephalexin anhydrous,1,1,48.1,1036
+certolizumab pegol,1,1,2839.4,1036
+cetrorelix,1,1,109.55,1036
+chloral hydrate,1,1,922.5,1036
+chlorambucil,1,1,237.6,1036
+"chloramphenicol,benzocaine",1,1,7.6,1036
+"chlormadinone,ethinylestradiol",1,1,65.7,1036
+chlormethine,1,1,6183.15,1036
+"chlorpheniramine maleate,pseudoephedrine hydrochloride",1,1,2.55,1036
+chlorprothixene,1,1,26.55,1036
+chlorzoxazone,1,1,24.3,1036
+choriogonadotropin alfa,1,1,146.37,1036
+"chromic chloride,copper chloride,ferric chloride,manganese chloride tetrahydrate,potassium iodide,sodium fluoride,sodium molybdate,sodium selenite anhydrous,zinc chloride",1,1,298.95,1036
+ciclopirox olamine,1,1,28.85,1036
+cilastatin,1,1,313.35,1036
+"cinchocaine,betamethasone valerate",1,1,10.7,1036
+cinnarizine,1,1,10.85,1036
+"ciprofloxacin,fluocinolone acetonide",1,1,41.3,1036
+ciprofloxacine,1,1,57.1,1036
+"citric acid anhydrous,tartaric acid,sodium bicarbonate",1,1,19.35,1036
+clascoterone,1,1,108.8,1036
+"clindamycin phosphate,benzoyl peroxide",1,1,37.8,1036
+"clindamycin phosphate,tretinoin",1,1,33.8,1036
+"clobetasol propionate,clobetasol propionate",1,1,17.0,1036
+clobetasone butyrate,1,1,4.5,1036
+"clopidogrel,acetylsalicylic acid",1,1,120.6,1036
+"colecalciferol (vitamin d3),glucosamine sulfate,chondroitin,hyaluronic acid,methyl sulfonyl methane",1,1,54.6,1036
+"copper,manganese,cyanocobalamin,thiamine,riboflavin (vitamin b2),pyridoxine (vitamin b6),zinc oxide,pantothenic acid,ferrous fumarate,selenium sulfide,chromium chloride hexahydrate,potassium chloride,sodium molybdate,ascorbic acid,biotin,iodine,phosphorus,calcium phosphate,folic acid,colecalciferol (vitamin d3),lutein,beta carotene,vitamin k1,nicotinamide",1,1,55.0,1036
+corifollitropin alfa,1,1,2168.4,1036
+crisaborole,1,1,340.3,1036
+crisantaspase (l-asparaginase from erwinia chrysanthemi),1,1,25697.15,1036
+cromolyn sodium,1,1,10.6,1036
+cyanocobalamin,1,1,7.35,1036
+cyclosporin,1,1,72.95,1036
+"cyd dengue virus serotype (1,2,3 & 4)",1,1,303.6,1036
+"cyproterone acetate,estradiol",1,1,23.7,1036
+"cyproterone acetate,ethinylestradiol",1,1,21.9,1036
+daclatasvir,1,1,5600.0,1036
+dalfampridine,1,1,1731.0,1036
+"dapagliflozin,saxagliptin",1,1,214.75,1036
+darolutamide,1,1,10502.0,1036
+"daunorubicin,cytarabine",1,1,23892.4,1036
+defibrotide,1,1,22191.65,1036
+delgocitinib,1,1,2146.35,1036
+"dermatophagoides farina extract,dermatophagoides pteronyssinus extract",1,1,323.3,1036
+"dermatophagoides farinae extract, dermatophagoides pteronyssinus extract",1,1,323.3,1036
+desethyl candesartan cilexetil,1,1,23.45,1036
+desflurane,1,1,2148.9,1036
+deucravacitinib,1,1,3777.35,1036
+"dexamethasone,levofloxacin",1,1,35.6,1036
+"dexamethasone,neomycin sulfate,polymyxin b",1,1,11.3,1036
+"dexamethasone,salicylic acid",1,1,11.4,1036
+dexketoprofen,1,1,16.9,1036
+dextran 40,1,1,23.7,1036
+"dextran 70,sodium chloride",1,1,24.95,1036
+"dextromethorphan,guaifenesin",1,1,29.75,1036
+"dextrose, ringer(s) solution",1,1,11.1,1036
+"dextrose,acetic acid,potassium chloride,calcium chloride,magnesium chloride,sodium chloride",1,1,41.0,1036
+"dextrose,calcium chloride,acetic acid,magnesium chloride,potassium chloride,sodium chloride",1,1,41.0,1036
+"dextrose,lidocaine hydrochloride",1,1,35.0,1036
+"dextrose,potassium chloride",1,1,18.0,1036
+"dextrose,sodium chloride, calcium chloride,magnesium chloride,sodium acetate",1,1,8.75,1036
+"dextrose,sodium chloride,potassium chloride, calcium chloride,magnesium chloride,sodium acetate",1,1,8.75,1036
+"dextrose,sodium chloride,potassium chloride, calcium chloride,sodium lactate",1,1,11.1,1036
+"dextrose,sodium chloride,sodium citrate,potassium citrate",1,1,10.0,1036
+"dextrose,sodium lactate,sodium chloride,potassium chloride, calcium chloride",1,1,5.8,1036
+diatrizoate meglumine,1,1,58.2,1036
+"diclofenac sodium,lidocaine hydrochloride",1,1,23.6,1036
+"diclofenac sodium,omeprazole",1,1,101.1,1036
+diethylamine salicylate,1,1,13.85,1036
+"dihydroxyaluminium sodium carbonate,simethicone",1,1,7.0,1036
+"diloxanide furoate,metronidazole",1,1,11.4,1036
+diltiazem hydrochloride,1,1,27.7,1036
+dimenhydrinate,1,1,9.4,1036
+dimetindene maleate,1,1,12.0,1036
+diosmin,1,1,41.6,1036
+"diosmin, hesperidin",1,1,62.6,1036
+"diphenhydramine hydrochloride,menthol",1,1,6.0,1036
+"diphenhydramine hydrochloride,sodium citrate,ammonium chloride",1,1,8.3,1036
+"diphtheria toxoid,tetanus toxoid,acellular pertussis,inactivated poliomyelitis",1,1,75.7,1036
+"diphtheria toxoid,tetanus toxoid,haemagglutinin,pertactin,acellular pertussis",1,1,63.1,1036
+"diphtheria toxoid,tetanus toxoid,pertussis toxoid,filamentous haemagglutinin,inactivated poliomyelitis virus type 1 (mahoney strain),inactivated poliomyelitis virus type 2 (mef-1 strain),inactivated poliomyelitis virus type 3 (saukett strain)",1,1,63.85,1036
+"diphtheria toxoid,tetanus toxoid,pertussis toxoid,filamentous haemagglutinin,inactivated poliomyelitis virus type 1 (mahoney strain),inactivated poliomyelitis virus type 2 (mef-1 strain),inactivated poliomyelitis virus type 3 (saukett strain),haemophilus influenzae type b",1,1,110.8,1036
+"diphtheria toxoid,tetanus toxoid,pertussis toxoid,haemagglutinin,inactivated polio virus (ipv) type 1,inactivated polio virus (ipv) type 2,inactivated polio virus (ipv) type 3,hepatitis b virus hbsag surface antigen,haemophilus influenzae type b",1,1,173.1,1036
+"diphtheria toxoid,tetanus toxoid,pertussis toxoid,hepatitis b virus hbsag surface antigen,haemophilus influenzae type b",1,1,80.75,1036
+dipyridamole,1,1,20.1,1036
+diroximel fumarate,1,1,4556.8,1036
+dl-alpha tocoferil acetate,1,1,7.75,1036
+"docusate sodium,sennosides",1,1,42.9,1036
+dolutegravir,1,1,1680.0,1036
+dolutegravir sodium,1,1,1568.0,1036
+"dolutegravir,lamivudine,abacavir",1,1,3128.8,1036
+donanemab,1,1,2937.95,1036
+"dopamine hydrochloride,dextrose",1,1,343.55,1036
+doravirine,1,1,1361.8,1036
+"doravirine,lamivudine,tenofovir disoproxil",1,1,2413.85,1036
+"dorzolamide, timolol maleate",1,1,120.65,1036
+dostarlimab,1,1,27974.2,1036
+"doxylamine succinate,pyridoxine",1,1,218.2,1036
+"doxylamine succinate,pyridoxine (vitamin b6)",1,1,109.1,1036
+droperidol,1,1,188.2,1036
+"drospinenone,ethinylestradiol, levomefolate calcium",1,1,44.45,1036
+drospirenone,1,1,43.55,1036
+"dutasteride,tamsulosin hydrochloride",1,1,90.45,1036
+"dydrogesterone,ethinylestradiol",1,1,26.4,1036
+econazole,1,1,18.2,1036
+ectoine,1,1,36.85,1036
+efavirenz,1,1,1575.2,1036
+"efavirenz,emtricitabine,tenofovir disoproxil",1,1,2284.3,1036
+"efavirenz,tenofovir disoproxil,emtricitabine",1,1,2404.55,1036
+efgartigimod alfa,1,1,33804.35,1036
+eliglustat,1,1,95189.65,1036
+"empagliflozin,metformin hydrochloride",1,1,60.5,1036
+"emtricitabine,bictegravir,tenofovir alafenamide",1,1,2737.85,1036
+"emtricitabine,elvitegravir,cobicistat,tenofovir alafenamide",1,1,3657.2,1036
+"enalapril maleate,hydrochlorothiazide",1,1,66.5,1036
+epinastine hydrochloride,1,1,26.2,1036
+eplontersen,1,1,150944.45,1036
+eprosartan mesilate,1,1,76.5,1036
+eptifibatide,1,1,1522.35,1036
+eszopiclone,1,1,41.9,1036
+etamsylate,1,1,50.6,1036
+"ethinylestradiol,norelgestromin",1,1,37.25,1036
+ethionamide,1,1,190.0,1036
+etonogestrel,1,1,444.85,1036
+evinacumab,1,1,32644.35,1036
+evolocumab,1,1,1758.45,1036
+"ezetimibe,bempedoic acid",1,1,308.0,1036
+fampridine,1,1,1133.9,1036
+"fenofibrate,pravastatin",1,1,65.35,1036
+ferric derisomaltose,1,1,403.6,1036
+ferric hydroxide,1,1,68.55,1036
+"ferric hydroxide,folic acid",1,1,19.4,1036
+ferrous fumarate,1,1,23.15,1036
+"fexofenadine hydrochloride,pseudoephedrine hydrochloride",1,1,18.65,1036
+fidaxomicin,1,1,5677.5,1036
+flavoxate hydrochloride,1,1,11.55,1036
+"fluocinolone acetonide,tretinoin,hydroquinone",1,1,63.099,1036
+fluorescein sodium,1,1,60.1,1036
+"fluorescein sodium,lidocaine hydrochloride",1,1,60.05,1036
+fluorometholone,1,1,13.75,1036
+"fluorometholone,sodium cromoglicate",1,1,23.95,1036
+fluticasone furoate,1,1,44.3,1036
+"fluticasone furoate, umeclidinium bromide, vilanterol trifenatate",1,1,236.8,1036
+fluvastatin,1,1,51.5,1036
+"folic acid,hydroxocobalamin,pyridoxine (vitamin b6)",1,1,4.05,1036
+"formoterol fumarate,glycopyrronium bromide,budesonide",1,1,236.8,1036
+fosaprepitant dimeglumine,1,1,200.0,1036
+fremanezumab,1,1,1343.05,1036
+"fusidic acid,hydrocortisone acetate",1,1,38.5,1036
+"g1 reassortant,g2 reassortant,g3 reassortant,g4 reassortant,pia 8 reassortant",1,1,199.55,1036
+gadoxetic acid,1,1,3487.7,1036
+ganirelix acetate,1,1,142.15,1036
+garadacimab,1,1,87550.1,1036
+gemtuzumab ozogamicin,1,1,35392.5,1036
+gilteritinib,1,1,72743.35,1036
+ginsenosides,1,1,28.85,1036
+givosiran,1,1,188292.4,1036
+"glibenclamide,metformin hydrochloride",1,1,25.5,1036
+glucarpidase,1,1,144385.4,1036
+"glucosamine hydrochloride,methylsulfonylmethane,calcium fructoborate,chondroitin,sodium hyaluronate",1,1,109.2,1036
+"glucosamine sulfate,chondroitin,copper,ginger extract,manganese,tocopherol,zinc oxide,ascorbic acid,cholecalciferol,cyanocobalamin,folic acid,selenium sulfide",1,1,54.6,1036
+"glucosamine sulfate,cod liver oil,fish collagen",1,1,81.9,1036
+"glucosamine sulfate,collagen type ii,chondroitin,copper,ginger extract,manganese,tocopherol,zinc oxide,ascorbic acid,cholecalciferol,cyanocobalamin,folic acid,selenium sulfide",1,1,27.3,1036
+"glucose monohydrate,sodium chloride,potassium chloride,sodium acetate trihydrate,magnesium chloride hexahydrate",1,1,240.35,1036
+"glucose monohydrate/// calcium chloride dihydrate/// magnesium chloride hexahydrate/// sodium chloride/// sodium slactate solution 50percent - glucose,calcium",1,1,254.1,1036
+"glucose monohydrate/// calcium chloride dihydrate/// magnesium chloride hexahydrate/// sodium chloride/// sodium slactate solution 50percent - glucose,calcium chloride dihydrate",1,1,156.65,1036
+"glucose monohydrate/// magnesium chloride hexahydrate/// sodium s lactate solution 50percent/// calcium chloride dihydrate/// sodium chloride - glucose,calcium",1,1,254.1,1036
+"glucose monohydrate/// sodium chloride /// sodium s lactate solution 50percent/// magnesium chloride hexahydrate/// calcium chloride dihydrate - glucose, calcium chloride",1,1,254.1,1036
+"glucose,olive oil,soya oil,alanine,arginine,aspartic acid,glutamic acid,glycine,histidine,isoleucine5,leucine,methionine,phenylalanine,proline,serine,threonine,tryptophan,tyrosine,valine,sodium acetate,sodium glycerophosphate hydrated,potassium chloride,magnesium chloride, calcium chloride,lysine",1,1,748.5,1036
+"glucose,olive oil,soya oil,alanine,arginine,lysine,leucine,phenylalanine,glycine,valine,proline,glutamic acid,threonine,isoleucine5,methionine,serine,histidine,aspartic acid,tryptophan,tyrosine",1,1,1195.5,1036
+"glucose,olive oil,soya oil,alanine,sodium glycerophosphate hydrated,arginine,lysine,glycine,phenylalanine,potassium chloride,valine,histidine,proline,glutamic acid,isoleucine5,methionine,threonine,sodium acetate,serine,aspartic acid,magnesium chloride,tryptophan, calcium chloride,tyrosine",1,1,929.6,1036
+"glycerin,sodium hyaluronate",1,1,286.832,1036
+glycopyrrolate,1,1,2000.0,1036
+"glycopyrronium bromide,(indacaterol (as acetate",1,1,193.55,1036
+golimumab,1,1,5170.65,1036
+gonadotrophin chorionic human,1,1,199.25,1036
+"guaifenesin,dextromethorphan",1,1,12.2,1036
+"guaifenesin,pseudoephedrine hydrochloride,triprolidine",1,1,7.3,1036
+haloperidol,1,1,21.85,1036
+hepatitis a gbm strain,1,1,89.2,1036
+hepatitis a virus strain cr 326f antigen (formaldehyde inactivated),1,1,74.5,1036
+"hepatitis a virus,hepatitis b virus hbsag surface antigen",1,1,130.2,1036
+hepatitis b vaccine (recombinant),1,1,46.7,1036
+"hepatitis b virus hbsag surface antigen,diphtheria toxoid,tetanus toxoid,pertussis toxoid,inactivated polio virus (ipv) type 1,inactivated polio virus (ipv) type 3,haemophilus influenzae type b,inactivated polio virus (ipv) type 2",1,1,198.15,1036
+"hepatitis b virus hbsag surface antigen,hepatitis b vaccine (recombinant)",1,1,40.45,1036
+"human fibrinogen, human thrombin,aprotinin,human thrombin, calcium chloride",1,1,971.4,1036
+"human fibrinogen,aprotinin,human thrombin,calcium chloride",1,1,2428.5,1036
+human hemin,1,1,12109.7,1036
+"human papillomavirus type 6 l1,human papillomavirus type 11 l1,human papillomavirus type 16 l1 protein,human papillomavirus type 18 l1 protein",1,1,411.9,1036
+"human papillomavirus type 6 l1,human papillomavirus type 11 l1,human papillomavirus type 16 l1 protein,human papillomavirus type 18 l1 protein,human papillomavirus type 31 l1 protein,human papillomavirus type 33 l1 protein,human papillomavirus type 45 l1 protein,human papillomavirus type 52 l1 protein,human papillomavirus type 58 l1 protein",1,1,605.0,1036
+human plasma coagulation factor ix,1,1,554.6,1036
+human rho(d) immune globulin,1,1,251.15,1036
+"human rotavirus, live attenuated vaccine",1,1,200.65,1036
+"hyaluronic acid,ginko biloba",1,1,33.9,1036
+"hydraflex,dexpanthenol",1,1,33.9,1036
+"hydrochlorothiazide,amiloride",1,1,11.15,1036
+"hydrochlorothiazide,eprosartan mesilate",1,1,76.5,1036
+"hydrocortisone acetate,clioquinol",1,1,16.75,1036
+"hydroquinone,retinoic acid,dexamethasone sodium phosphate",1,1,63.1,1036
+"hydrous benzoyl peroxide,adapalene",1,1,40.3,1036
+hydroxyzine hydrochloride,1,1,20.7,1036
+"hypromellose 2208 (750 mpa.s),dextran 70",1,1,24.95,1036
+ibandronic acid,1,1,81.3,1036
+"ibuprofen,caffeine citrate",1,1,11.05,1036
+"ibuprofen,pseudoephedrine hydrochloride",1,1,9.0,1036
+"ibuprofen,pseudoephedrine hydrochloride,chlorpheniramine maleate",1,1,12.45,1036
+icatibant,1,1,4781.1,1036
+icosapent ethyl,1,1,668.05,1036
+idarucizumab,1,1,9115.1,1036
+idursulfase,1,1,10363.65,1036
+imiglucerase,1,1,5984.85,1036
+"imipenem,cilastatin,relebactam",1,1,15509.4,1036
+imipramine hydrochloride,1,1,16.85,1036
+imiquimod,1,1,140.5,1036
+imlunestrant tosylate,1,1,28359.4,1036
+inactivated split influenza virus,1,1,168.0,1036
+inclisiran,1,1,9954.5,1036
+indapamide,1,1,24.65,1036
+indocyanine green,1,1,458.15,1036
+inebilizumab,1,1,251005.7,1036
+"influenza a virus a/indonesia/5/2005 (h5n1) antigen (uv, formaldehyde inactivated)",1,1,54.35,1036
+influenza virus inactivated split,1,1,463.75,1036
+inotuzumab ozogamicin,1,1,38487.5,1036
+"insulin aspart, insulin degludec",1,1,378.9,1036
+"insulin aspart,insulin aspart protamine",1,1,189.0,1036
+"insulin degludec,insulin aspart",1,1,378.9,1036
+"insulin degludec,liraglutide",1,1,821.3,1036
+insulin glulisine,1,1,169.1,1036
+insulin human,1,1,53.55,1036
+insulin lispro zinc crystals,1,1,167.95,1036
+insulin neutral,1,1,65.0,1036
+interferon beta-1b,1,1,3071.6,1036
+"iodine,selenium sulfide,chromium chloride hexahydrate,folic acid,calcium phosphate,phosphorus,biotin,ascorbic acid,ferrous fumarate,sodium molybdate,vitamin k1,nicotinamide,dl-alpha tocoferil acetate,beta carotene,copper,manganese,magnesium oxide,cyanocobalamin,riboflavin (vitamin b2),pyridoxine (vitamin b6),zinc oxide,pantothenic acid,lutein,potassium chloride,thiamine,colecalciferol (vitamin d3)",1,1,20.4,1036
+ipilimumab,1,1,14866.6,1036
+iptacopan,1,1,134144.8,1036
+"iron chloride tetrahydrate,zinc chloride,sodium fluoride,sodium selenite pentahydrate,chromium chloride hexahydrate,sodium molybdate",1,1,22.65,1036
+"iron polymaltose,folic acid",1,1,15.7,1036
+ivermectin,1,1,82.85,1036
+ivosidenib,1,1,78081.35,1036
+ixekizumab,1,1,4259.15,1036
+"kaolin,pectin",1,1,9.3,1036
+"khellin,methenamine,piperazine",1,1,11.15,1036
+"lactic acid,sodium hydrogen carbonate,magnesium chloride,calcium chloride,potassium chloride,glucose,sodium chloride",1,1,128.8,1036
+"lamivudine,dolutegravir sodium",1,1,2740.9,1036
+"lamivudine,zidovudine",1,1,1091.55,1036
+lanadelumab,1,1,52771.15,1036
+laronidase,1,1,2972.65,1036
+"latanoprost,netarsudil mesylate",1,1,48.0,1036
+"latanoprost,timolol",1,1,30.05,1036
+latanoprostene bunod,1,1,92.05,1036
+lebrikizumab,1,1,4413.45,1036
+levocitrizine,1,1,22.8,1036
+levofloxacin hemihydrate,1,1,59.5,1036
+lidocaine base,1,1,35.0,1036
+"lidocaine hydrochloride,cetrimide",1,1,22.6,1036
+"lidocaine, prilocaine",1,1,49.5,1036
+lifitegrast,1,1,361.5,1036
+lithium carbonate,1,1,100.0,1036
+loncastuximab tesirine,1,1,75843.3,1036
+"loteprednol etabonate,tobramycin",1,1,64.0,1036
+luliconazole,1,1,58.8,1036
+lumasiran,1,1,264372.2,1036
+lutetium 177lu vipivotide tetraxetan,1,1,100266.5,1036
+"magnesium alginate,sodium alginate",1,1,14.5,1036
+magnesium citrate,1,1,12.4,1036
+"magnesium hydroxide,aluminium hydroxide dried",1,1,165.5,1036
+"manganese gluconate,copper gluconate,zinc gluconate,sodium selenite pentahydrate,potassium iodide",1,1,249.8,1036
+maralixibat,1,1,125703.25,1036
+maribavir,1,1,52742.45,1036
+marstacimab,1,1,29782.4,1036
+"measles virus (schwarz) live attenuated,mumps virus (jeryl lynn, strain rit 4385) live attenuated,rubella virus (wistar ra 27/3) live attenuated",1,1,51.9,1036
+"measles virus (schwarz) live attenuated,mumps virus (jeryl lynn, strain rit 4385) live attenuated,rubella virus (wistar ra 27/3) live attenuated,varicella zoster virus (oka strain) live attenuated",1,1,212.1,1036
+"measles,mumps,rubella",1,1,4550.7,1036
+"measles,mumps,rubella,varicella",1,1,254.5,1036
+mecasermin,1,1,2518.4,1036
+"meclozine,pyridoxine (vitamin b6)",1,1,377.65,1036
+"meningococcal (serogroup a) polysaccharide,meningococcal (serogroup c) polysaccharide,meningococcal (serogroup y) polysaccharide,meningococcal (serogroup w135) polysaccharide,tetanus toxoid",1,1,191.0,1036
+"meningococcal group a (neisseria meningitidis) polysaccharide vaccine,meningococcal group b (neisseria meningitidis) (strain nz98/254)",1,1,313.7,1036
+"meningococcal group a (neisseria meningitidis) polysaccharide vaccine,meningococcal group c (neisseria meningitidis) polysaccharide,meningococcal group w (neisseria meningitidis) polysaccharide,meningococcal group y (neisseria meningitidis) polysaccharide",1,1,207.1,1036
+"meningococcal group a, c, w135, y,tetanus toxoid",1,1,1444.1,1036
+"menthol, xylometazoline hydrochloride",1,1,16.55,1036
+"menthol,methyl salicylate,camphor,eucalyptus oil",1,1,6.05,1036
+"mepivacaine hydrochloride,adrenaline",1,1,99.6,1036
+"metformin hydrochloride,sitagliptin",1,1,94.3,1036
+methylergonovine maleate,1,1,10.15,1036
+mexiletine,1,1,694.2,1036
+"miconazole nitrate,betamethasone dipropionate",1,1,16.3,1036
+midostaurin,1,1,58587.25,1036
+miglustat,1,1,27630.75,1036
+mirvetuximab soravtansine,1,1,30015.55,1036
+misoprostol,1,1,40.35,1036
+mitapivat,1,1,107301.35,1036
+mitomycin,1,1,63.6,1036
+mitoxantrone hydrochloride,1,1,396.7,1036
+mogamulizumab,1,1,5905.3,1036
+"mometasone furoate,(indacaterol (as acetate,glycopyrronium bromide",1,1,236.8,1036
+"monosodium phosphate,disodium phosphate",1,1,8.55,1036
+"monovalent inactivated spilit virion ah 1n1,monovalent inactivated spilit virion ah 3n2,monovalent inactivated spilit virion b strain victoria lineage,monovalent inactivated spilit virion b strain yamagate lineage",1,1,54.35,1036
+"mrna1273 167 lnp b,cx 045346",1,1,383.8,1036
+multivitamins,1,1,9.95,1036
+"mumps virus (jeryl lynn, strain rit 4385) live attenuated,measles virus (schwarz) live attenuated,rubella virus (wistar ra 27/3) live attenuated",1,1,51.9,1036
+nalbuphine,1,1,31.05,1036
+naphazoline nitrate,1,1,16.65,1036
+naproxen,1,1,11.65,1036
+nefopam hydrochloride,1,1,17.65,1036
+"neomycin sulfate,betamethasone",1,1,11.7,1036
+"neomycin sulfate,polymyxin b,nystatin",1,1,23.35,1036
+neratinib,1,1,17522.95,1036
+"netupitant,palonosetron hydrochloride",1,1,306.7,1036
+nevirapine,1,1,73.0,1036
+"niacinamide,calcium pantothenate,riboflavin,thiamine,pyridoxine",1,1,22.8,1036
+nicotine ditatrate dihydrate,1,1,65.2,1036
+nifedipine,1,1,46.4,1036
+nifuroxazide,1,1,13.85,1036
+niraparib,1,1,15657.1,1036
+nitrofurantoin,1,1,27.25,1036
+nogapendekin alfa inbakicept,1,1,162442.5,1036
+noradrenaline,1,1,75.15,1036
+nusinersen,1,1,355286.25,1036
+obinutuzumab,1,1,14662.7,1036
+ofatumumab,1,1,4344.95,1036
+"ofloxacin,dexamethasone",1,1,14.95,1036
+olipudase alfa,1,1,17896.6,1036
+"olive oil,soya oil,alanine,arginine,aspartic acid,glutamic acid,glycine,histidine,isoleucine5,leucine,methionine,phenylalanine,proline,serine,threonine,tryptophan,tyrosine,valine,sodium acetate,sodium glycerophosphate hydrated,potassium chloride,magnesium chloride, calcium chloride,glucose,lysine",1,1,665.2,1036
+omaveloxolone,1,1,127050.0,1036
+omega-3 polyunsaturated fatty acids,1,1,103.9,1036
+oral rehydration salts,1,1,7.0,1036
+oritavancin,1,1,7344.75,1036
+ornidazole,1,1,54.55,1036
+"orphenandrine citrate, paracetamol",1,1,16.5,1036
+otilonium bromide,1,1,19.65,1036
+oxomemazine,1,1,26.25,1036
+oxybuprocaine,1,1,60.05,1036
+oxybutynin,1,1,994.95,1036
+ozenoxacin,1,1,62.7,1036
+pa-21 ferric oxy-hydroxide component,1,1,603.5,1036
+palivizumab,1,1,3679.9,1036
+pancreatin,1,1,94.85,1036
+pancuronium bromide,1,1,13.4,1036
+panitumumab,1,1,2323.3,1036
+"paracetamol,caffeine",1,1,4.65,1036
+"paracetamol,caffeine citrate,pseudoephedrine hydrochloride,chlorpheniramine maleate",1,1,12.3,1036
+"paracetamol,codeine,caffeine",1,1,10.5,1036
+"paracetamol,orphenadrine citrate",1,1,6.6,1036
+"paracetamol,pseudoephedrine hydrochloride,dextromethorphan",1,1,10.9,1036
+pegaspargase,1,1,8368.3,1036
+penciclovir,1,1,25.35,1036
+penicillamine,1,1,895.4,1036
+pentamidine isetionate,1,1,196.5,1036
+peppermint oil,1,1,18.55,1036
+"phenazone,benzocaine",1,1,19.0,1036
+"phenazone,lidocaine hydrochloride",1,1,9.85,1036
+"phenylalanine,methionine,lysine,leucine,isoleucine5,arginine,glycine,threonine,fish oil,proline,histidine,serine,alanine,tryptophan,olive oil,tyrosine,valine, calcium chloride,sodium glycerophosphate hydrated,magnesium sulfate,potassium chloride,sodium acetate,zinc sulphate,glucose,soya oil,taurine,triglycerides medium chain",1,1,1768.35,1036
+"phosphorus,calcium phosphate,magnesium oxide,potassium iodide,zinc oxide,manganese,copper,sodium molybdate,biotin,nicotinamide,ascorbic acid,cyanocobalamin,pyridoxine (vitamin b6),riboflavin (vitamin b2),thiamine,tocopherol,ginseng,ferrous fumarate,magnesium sulfate,cholecalciferol,folic acid,calcium pantothenate,phospholipids",1,1,6.2,1036
+pimecrolimus,1,1,112.35,1036
+"pioglitazone,metformin hydrochloride",1,1,78.85,1036
+pirfenoxone sodium,1,1,19.05,1036
+piribedil,1,1,31.7,1036
+plasma protein fraction,1,1,614.1,1036
+"pneumococcal (streptococcus pneumoniae) polysaccharide (serotype 1, 2, 3, 4, 5, 6b, 7f, 8, 9n, 9v, 10a, 11a, 12f, 14, 15b, 17f, 18c, 19a, 19f, 20, 22f, 23f, 33f)",1,1,135.5,1036
+"pneumococcal (streptococcus pneumoniae) polysaccharide conjugate (serotype 1, 4, 5, 6b, 7f, 9v, 14, 18c, 19f and 23f) vaccine",1,1,165.5,1036
+"pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)",1,1,270.45,1036
+"pneumococcal polysaccharide serotype 1,pneumococcal polysaccharide serotype 3,pneumococcal polysaccharide serotype 4,pneumococcal polysaccharide serotype 5,pneumococcal polysaccharide serotype 6a,pneumococcal polysaccharide serotype 6b,pneumococcal polysaccharide serotype 7f,pneumococcal polysaccharide serotype 9v,pneumococcal polysaccharide serotype 14,pneumococcal polysaccharide serotype 18c,pneumococcal polysaccharide serotype 19a,pneumococcal polysaccharide serotype 19f,pneumococcal polysaccharide serotype 23f",1,1,245.85,1036
+"pneumococcal polysaccharide serotype 3, 6a, 7f, 8, 9n, 10a, 11a, 12f, 15a, deoac15b, 16f, 17f, 19a, 20a, 22f, 23a, 23b, 24f, 31, 33f, 35b",1,1,382.3,1036
+podophyllotoxin,1,1,63.6,1036
+polimerized allergen extract,1,1,888.35,1036
+polyethylene glycol,1,1,52.95,1036
+"polymyxin b,neomycin sulfate,dexamethasone",1,1,11.55,1036
+"polymyxin b,prednisolone,neomycin sulfate",1,1,10.45,1036
+polysaccharides of salmonella typhi (ty2 strain),1,1,50.0,1036
+"polyvinyl alcohol,povidone",1,1,19.0,1036
+"potassium chloride,sodium chloride, calcium chloride,magnesium chloride,sodium acetate,sodium citrate",1,1,2.05,1036
+"potassium chloride,sodium chloride, calcium chloride,sodium acetate,malic acid,magnesium chloride",1,1,11.75,1036
+potassium sodium hydrogen citrate,1,1,52.1,1036
+povidone-iodine,1,1,82.15,1036
+pralatrexate,1,1,15091.7,1036
+prasterone,1,1,76.795,1036
+praziquantel,1,1,65.9,1036
+"prilocaine,felypressin",1,1,191.1,1036
+"prilocaine,lidocaine hydrochloride",1,1,47.0,1036
+procyclidine,1,1,26.95,1036
+"promethazine,carbocisteine",1,1,10.1,1036
+propylthiouracil,1,1,57.35,1036
+protamine sulfate,1,1,278.05,1036
+"pseudoephedrine hydrochloride,dextromethorphan hydrobromide,chlorpheniramine maleate",1,1,11.8,1036
+psyllium husk,1,1,8.65,1036
+pyridoxine,1,1,5.35,1036
+"pyridoxine,meclozine",1,1,10.0,1036
+r l asparaginase,1,1,2076.2,1036
+rabbit anti human thymocyte immunoglobulin,1,1,1001.0,1036
+rabeprazole sodium,1,1,30.15,1036
+rabies vaccine inactivated,1,1,306.3,1036
+rabies virus strain pm-1503-3m antigen (propiolactone inactivated),1,1,106.6,1036
+radium ra-223 dichloride,1,1,22054.2,1036
+ramucirumab,1,1,2402.6,1036
+recombinant crisantaspase,1,1,11250.3,1036
+"recombinant neisseria meningitidis group b nhba fusion protein the nhba,recombinant neisseria meningitidis group b nhba fusion protein the nhba i,recombinant n meningitidis serogroup b nada protein,recombinant n meningitidis serogroup b nada protein i,recombinant n meningitidis serogroup b fhbp fusion protein,recombinant n meningitidis serogroup b fhbp fusion protein i,outer membrane vesicles from n meningitidis serogroup b strain nz98254",1,1,347.9,1036
+recombinant respiratory syncytial virus prefusion f protein adjuvanted with as01e,1,1,925.65,1036
+remdesivir,1,1,1769.65,1036
+remibrutinib,1,1,7125.55,1036
+reteplase,1,1,7000.0,1036
+retinol,1,1,5.85,1036
+"retinol,colecalciferol (vitamin d3)",1,1,8.2,1036
+"retinol,colecalciferol (vitamin d3),tocopherol,ascorbic acid,thiamine,riboflavin (vitamin b2),pyridoxine (vitamin b6),nicotinamide",1,1,2.9,1036
+rezafungin acetate,1,1,8947.0,1036
+ribavirin,1,1,590.05,1036
+"riboflavin (vitamin b2),thiamine,biotin,manganese,folic acid,pyridoxine (vitamin b6),copper,cyanocobalamin,nicotinamide,calcium pantothenate,colecalciferol (vitamin d3),ascorbic acid,magnesium hydroxide,phosphate, calcium chloride,retinol,ferrous fumarate,zinc oxide,dl-alpha tocoferil acetate",1,1,39.0,1036
+rimegepant,1,1,607.0,1036
+ringer(s) solution,1,1,130.8,1036
+ritlecitinib,1,1,3605.85,1036
+"ritonavir,pf-07321332 nirmatrelvir",1,1,4287.95,1036
+roflumilast,1,1,109.2,1036
+romiplostim,1,1,2701.95,1036
+romosozumab,1,1,1809.0,1036
+roxithromycin,1,1,29.75,1036
+sacituzumab govitecan,1,1,4836.95,1036
+"salicylic acid,betamethasone",1,1,8.6,1036
+"salicylic acid,dexamethasone",1,1,11.4,1036
+sebelipase alfa,1,1,32606.95,1036
+seladelpar lysine dihydrate,1,1,19664.6,1036
+setmelanotide,1,1,12967.85,1036
+silodosin,1,1,64.05,1036
+"simethicone,loperamide",1,1,19.3,1036
+"sodium alginate,sodium hydrogen carbonate,calcium carbonate",1,1,11.8,1036
+"sodium bicarbonate,omeprazole",1,1,93.75,1036
+"sodium bicarbonate,paracetamol",1,1,10.05,1036
+"sodium chloride, calcium chloride,lactic acid,potassium chloride,sodium hydrogen carbonate,glucose,magnesium chloride",1,1,128.8,1036
+"sodium chloride, calcium chloride,magnesium chloride,dextrose,acetic acid",1,1,25.25,1036
+"sodium chloride,acetic acid,potassium chloride, calcium chloride,magnesium chloride",1,1,41.0,1036
+"sodium chloride,calcium chloride,potassium chloride,acetic acid,magnesium chloride",1,1,25.25,1036
+"sodium chloride,dextrose, calcium chloride,acetic acid,potassium chloride,magnesium chloride",1,1,27.7,1036
+"sodium chloride,dextrose,calcium chloride,potassium chloride,acetic acid,magnesium chloride",1,1,25.25,1036
+"sodium chloride,hypromellose 2208 (750 mpa.s)",1,1,10.7,1036
+"sodium chloride,potassium chloride, calcium chloride,magnesium chloride,sodium acetate,malic acid",1,1,8.65,1036
+"sodium chloride,potassium chloride,calcium chloride,magnesium chloride,sodium acetate",1,1,45.55,1036
+"sodium chloride,sodium acetate,dextrose, calcium chloride,magnesium chloride,potassium chloride",1,1,41.0,1036
+"sodium chloride,sodium acetate,magnesium chloride,potassium chloride, calcium chloride",1,1,45.55,1036
+"sodium chloride,sodium acetate,potassium chloride, calcium chloride,magnesium chloride",1,1,45.55,1036
+sodium chloride/// magnesium chloride hexahydrate/// glucose monohydrate/// sodium s lactate solution 50percent/// calcium chloride dihydrate - glucose,1,1,156.65,1036
+"sodium chloride/// magnesium chloride hexahydrate/// glucose monohydrate/// sodium s lactate solution 50percent/// calcium chloride dihydrate - glucose, calcium chloride",1,1,254.1,1036
+"sodium chloride/// magnesium chloride hexahydrate/// sodium s lactate solution 50percent/// calcium chloride dihydrate/// glucose monohydrate - glucose, calcium chloride",1,1,254.1,1036
+"sodium cromoglicate,tetrahydrozoline",1,1,31.65,1036
+sodium fusidate,1,1,8.15,1036
+"sodium glycerophosphate hydrated,magnesium sulfate,potassium chloride,sodium acetate,alanine,glucose,taurine,soya oil, calcium chloride,zinc sulphate,valine,leucine,tryptophan,threonine,triglycerides medium chain,serine,glycine,proline,lysine,fish oil,arginine,olive oil,histidine,methionine,phenylalanine,tyrosine,isoleucine5",1,1,1657.85,1036
+"sodium hyaluronate,hydroxyethyl starch",1,1,237.95,1036
+"sodium lactate,sodium chloride, calcium chloride,potassium chloride,dextrose",1,1,6.95,1036
+"sodium molybdate,copper,manganese,calcium phosphate,potassium iodide,magnesium oxide,biotin,phosphorus,zinc oxide,phospholipids,ascorbic acid,cyanocobalamin,pyridoxine (vitamin b6),riboflavin (vitamin b2),thiamine,tocopherol,ginseng,ferrous fumarate,magnesium sulfate,cholecalciferol,folic acid,nicotinamide,calcium pantothenate",1,1,16.3,1036
+sodium nitroprusside,1,1,230.4,1036
+"sodium phenylacetate,sodium benzoate",1,1,11070.7,1036
+sodium polystyrene sulfonate,1,1,268.75,1036
+"sodium s lactate solution 50percent/// calcium chloride dihydrate/// glucose monohydrate/// magnesium chloride hexahydrate/// sodium chloride - glucose,calcium",1,1,254.1,1036
+sodium selenite anhydrous,1,1,340.2,1036
+sodium thiosulfate pentahydrate,1,1,2150.65,1036
+"sofosbuvir,ledipasvir",1,1,40067.95,1036
+"sofosbuvir,velpatasvir",1,1,40067.95,1036
+"sofosbuvir,velpatasvir,voxilaprevir",1,1,35531.35,1036
+"solifenacin succinate,tamsulosin hydrochloride",1,1,146.35,1036
+sotalol hcl,1,1,10.35,1036
+sotorasib,1,1,37902.6,1036
+spesolimab,1,1,84631.2,1036
+sucralfate,1,1,11.8,1036
+sulfadiazine silver,1,1,23.3,1036
+"sulfadiazine silver,sodium hyaluronate",1,1,45.0,1036
+sulfasalazine,1,1,28.35,1036
+suxamethonium chloride,1,1,75.95,1036
+tafamidis,1,1,39840.55,1036
+tafasitamab,1,1,3501.4,1036
+tagraxofusp,1,1,105008.35,1036
+talazoparib,1,1,2656.1,1036
+tapinarof,1,1,1361.25,1036
+"tazobactam,ceftolozane",1,1,3282.1,1036
+teduglutide,1,1,77665.85,1036
+telotristat ethyl,1,1,43775.0,1036
+tenecteplase,1,1,5040.7,1036
+tenofovir alafenamide,1,1,940.9,1036
+teplizumab,1,1,50275.5,1036
+tepotinib,1,1,38095.4,1036
+teprotumumab,1,1,63245.05,1036
+"testosterone decanoate,testosterone isocaproate,testosterone phenylpropionate,testosterone propionate",1,1,21.65,1036
+"tetanus toxoid,diphtheria toxoid",1,1,80.05,1036
+"tetanus toxoid,diphtheria toxoid,acellular pertussis",1,1,69.6,1036
+"tetanus toxoid,diphtheria toxoid,pertussis toxoid,haemagglutinin,inactivated polio virus (ipv) type 1,inactivated polio virus (ipv) type 2,inactivated polio virus (ipv) type 3,hepatitis b virus hbsag surface antigen,haemophilus influenzae type b",1,1,1579.0,1036
+"tetanus toxoid,meningococcal group a (neisseria meningitidis) polysaccharide vaccine,meningococcal group c (neisseria meningitidis) polysaccharide,meningococcal group w (neisseria meningitidis) polysaccharide,meningococcal group y (neisseria meningitidis) polysaccharide",1,1,151.0,1036
+"tetanus toxoid,pertussis toxoid,haemagglutinin,inactivated polio virus (ipv) type 1,inactivated polio virus (ipv) type 2,inactivated polio virus (ipv) type 3,hepatitis b virus hbsag surface antigen,haemophilus influenzae type b,diphtheria toxoid",1,1,1731.0,1036
+tetracaine hydrochloride,1,1,60.05,1036
+tetracosactide,1,1,1698.0,1036
+tetracycline,1,1,3.0,1036
+thiamine,1,1,8.2,1036
+thyrotropin alfa,1,1,4584.7,1036
+tildrakizumab,1,1,10036.95,1036
+"timolol maleate,bimatoprost",1,1,72.3,1036
+"timolol maleate,brinzolamide",1,1,51.35,1036
+"timolol maleate,latanoprost",1,1,33.4,1036
+"tiotropium,olodaterol",1,1,200.05,1036
+tislelizumab,1,1,10694.85,1036
+tofersen,1,1,98211.15,1036
+topotecan,1,1,489.85,1036
+toremifene citrate,1,1,221.5,1036
+toripalimab,1,1,25090.15,1036
+tralokinumab,1,1,4413.45,1036
+"tramadol hydrochloride,paracetamol",1,1,27.1,1036
+"travoprost,timolol maleate",1,1,52.85,1036
+treosulfan,1,1,2313.95,1036
+trientine hydrochloride,1,1,7323.4,1036
+trientine tetrahydrochloride,1,1,7303.8,1036
+trifarotene,1,1,139.8,1036
+"triglycerides medium chain,soya oil",1,1,42.75,1036
+trimetazidine,1,1,62.1,1036
+triterpene extract,1,1,41514.55,1036
+"tropicamide,phenylephrine hydrochloride,lidocaine hydrochloride",1,1,763.6,1036
+trospium,1,1,22.05,1036
+troxerutin,1,1,30.15,1036
+"tryptophan,lysine,glucose,sodium acetate,potassium chloride,magnesium sulfate, calcium chloride,valine,tyrosine,threonine,glycine,serine,proline,phenylalanine,methionine,leucine,isoleucine5,histidine,taurine,arginine,alanine,fish oil,olive oil,triglycerides medium chain,soya oil,zinc sulphate,sodium glycerophosphate hydrated",1,1,219.45,1036
+ubrogepant,1,1,632.3,1036
+"umeclidinium bromide,vilanterol",1,1,158.4,1036
+"vaborbactam,meropenem",1,1,1881.3,1036
+"varenicline tartrate,varenicline",1,1,106.7,1036
+"varenicline,varenicline tartrate",1,1,106.7,1036
+varicella virus vaccine live (oka-merck),1,1,152.1,1036
+varicella zoster virus glycoprotein e adjuvanted with as01b,1,1,774.9,1036
+varicella zoster virus oka strain live attenuated,1,1,166.6,1036
+velmanase alfa,1,1,4352.35,1036
+vemurafenib,1,1,7210.0,1036
+vigabatrin,1,1,213.7,1036
+vinblastine,1,1,504.55,1036
+vitamin a palmitate,1,1,34.25,1036
+vutrisiran,1,1,326996.55,1036
+"white petrolatum,mineral oil",1,1,28.2,1036
+zanamivir,1,1,60.95,1036
+zanubrutinib,1,1,26739.45,1036
+"zinc chloride,sodium fluoride,copper chloride,manganese chloride,potassium iodide,sodium selenite anhydrous",1,1,250.3,1036
+zinc oxide,1,1,20.85,1036

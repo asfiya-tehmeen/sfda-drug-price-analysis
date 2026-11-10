@@ -42,5 +42,8 @@ python src/clean.py
 python src/features.py
 python src/analysis.py
 python src/model.py
-pytest
+python src/run_sql.py   # DuckDB (sql/01-03): cleaning and aggregates, exported to reports/sql/
+pytest                  # includes tests/test_sql.py, which reconciles SQL with the pandas pipeline
 ```
+
+The SQL layer reproduces the cleaning (8,246 rows in, 8,171 out, same drop counts), the 247 like-for-like cells and the median ratio of 0.95 from `data/clean/list_raw_parsed.csv`; `tests/test_sql.py` checks row-level agreement with the Python pipeline.
