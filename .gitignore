@@ -4,11 +4,14 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
-# Personal project notes (local only)
-my_README.md
 
 # Scraped SFDA data and row-level derivatives: do not republish (see reports/scraping_notes.md)
 data/raw/*
 data/clean/*
 !data/raw/.gitkeep
 !data/clean/.gitkeep
+
+# Personal notes, old plan versions and AI prompts (local only)
+my_README*.md
+NEXT_PROMPT.md
+*_PROMPT.md
